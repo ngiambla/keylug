@@ -1,0 +1,11 @@
+NP: perdido street Force[N]: 92400.0
+NP: issac world Force[N]: 46631.9590619
+NP: fiction science Force[N]: 43731.3634663
+NP: city crobuzon Force[N]: 35797.0604144
+NP: cultural differences Force[N]: 33763.3921522
+NP: culture khepri Force[N]: 22333.0952693
+NP: corruption deceit Force[N]: 22323.2583134
+NP: mieville provides Force[N]: 11377.7777778
+NP: characteristics human Force[N]: 10645.8333333
+NP: lins relationship Force[N]: 10080.0
+>>> Elapsed Time: 0.301993131638

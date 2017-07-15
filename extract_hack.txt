@@ -1,0 +1,11 @@
+NP: computer security Force[N]: 4606440.48531
+NP: hackers information Force[N]: 2115649.57557
+NP: managers system Force[N]: 489450.904633
+NP: breaking systems Force[N]: 197544.140556
+NP: hacking malicious Force[N]: 76462.2715346
+NP: enforcement law Force[N]: 66532.5023305
+NP: richard stallman Force[N]: 64111.241328
+NP: access computers Force[N]: 25487.1895846
+NP: brian harvey Force[N]: 24304.1680214
+NP: image public Force[N]: 23189.1728829
+>>> Elapsed Time: 1.91625499725

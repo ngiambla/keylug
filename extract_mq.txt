@@ -1,0 +1,11 @@
+NP: interarea project Force[N]: 1221867.19701
+NP: insitu technology Force[N]: 885603.022488
+NP: indigenous people Force[N]: 215787.084941
+NP: future sustainable Force[N]: 135432.0
+NP: benefits development Force[N]: 52903.125
+NP: currently susinnov Force[N]: 50171.2224559
+NP: extraction oil Force[N]: 33689.5417852
+NP: generate revenue Force[N]: 28550.7565037
+NP: interestbased stake Force[N]: 27715.5305556
+NP: advantage competitive Force[N]: 23760.0
+>>> Elapsed Time: 0.250378847122

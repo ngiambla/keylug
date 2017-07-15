@@ -1,0 +1,780 @@
+1
+
+Cognitive Processing Therapy
+Veteran/Military Version
+
+Patricia A. Resick, Ph.D. and Candice M. Monson, Ph.D.
+National Center for PTSD
+Women’s Health Science Division
+VA Boston Healthcare System and
+Boston University
+And
+Kathleen M. Chard, Ph.D.
+Cincinnati VA Medical Center and
+University of Cincinnati
+
+October, 2006
+
+Correspondence should be addressed to Patricia Resick or Candice Monson, WHSD (116B-3),
+VA Boston Healthcare System, 150 South Huntington Ave. Boston, MA 02130;
+Patricia.Resick@va.gov or Candice.Monson@va.gov.
+Copyright, © Patricia A. Resick, Ph.D. and Candice M. Monson, Ph.D. 10/01/06
+
+2
+
+Cognitive Processing Therapy: Veteran/Military Version
+Part 1
+Introduction to Cognitive Processing Therapy
+Cognitive Processing Therapy (CPT) is a 12-session therapy that has been found effective
+for both PTSD and other corollary symptoms following traumatic events (Monson et al, 2006;
+Resick et al, 2002; Resick & Schnicke, 1992, 19931). Although the research on CPT focused on
+rape victims originally, we have used the therapy successfully with a range of other traumatic
+events, including military-related traumas. This revision of the manual is in response to requests
+for a treatment manual that focuses exclusively on military trauma. The manual has been
+updated to reflect changes in the therapy over time, particularly with an increase in the amount of
+practice that is assigned and with some of the handouts. It also includes suggestions from almost
+two decades of clinical experience with the therapy.
+Also included in this manual is a module for traumatic bereavement. This module is not
+included as one of the 12 sessions but could be added to the therapy. We recommend that the
+session be added early in therapy, perhaps as the second session along with the educational
+component on posttraumatic stress disorder. Although we expect PTSD to remit as a result of
+treatment, we do not necessarily expect bereavement to remit. Grief is a normal reaction to loss
+and is not a disorder. Bereavement may have a long and varied course. The goal of dealing with
+grief issues within CPT is not to shorten the natural course of adjustment, but to remove blocks
+and barriers (distorted cognitions, assumptions, expectations) that are interfering with normal
+bereavement. Therefore, the focus is on normal grief, myths about bereavement, and stuck
+points that therapists may need to focus on in this domain. If the bereavement session is added to
+CPT, then the assignment to write an impact statement would be delayed one session (see
+Session 1) for those who have PTSD due to a traumatic death. Another possibility is to have the
+patients write two impact statements for those who both lost a loved one and have PTSD related
+to something that happened to them directly. One statement would be about what it means that
+the traumatic event happened to them. The other statement would be about what it means that the
+loved one has died.
+Many therapists were never trained to conduct manualized psychotherapies and may feel
+uncomfortable with both the concept and the execution. It is important that the patient and
+therapist agree on the goal for the therapy (trauma work for PTSD and related symptoms) so that
+the goals do not drift or switch from session to session. Without a firm commitment to the
+1
+
+Monson, C.M., Schnurr, P.P., Resick, P.A., Friedman, M.J., Young-Xu, Y., & Stevens, S.P. (2006). Cognitive
+processing therapy for veterans with military-related posttraumatic stress disorder. Journal of Consulting &
+Clinical Psychology, 74, 898-907.
+Resick, P.A., Nishith, P., Weaver, T.L., Astin, M.C., & Feuer, C.A. (2002). A comparison of cognitive processing
+therapy, prolonged exposure and a waiting condition for the treatment of posttraumatic stress disorder in
+female rape victims. Journal of Consulting and Clinical Psychology, 70, 867-879.
+Resick, P. A., & Schnicke, M. K. (1992). Cognitive processing therapy for sexual assault victims. Journal of
+Consulting and Clinical Psychology, 60, 748-756.
+Resick, P. A., & Schnicke, M. K. (1993). Cognitive processing therapy for rape victims: A treatment manual.
+Newbury Park, CA: Sage Publications.
+
+3
+treatment goals, when the therapy is “off track”, the therapist may not know whether to get back
+on the protocol or to let it slide. As other topics arise, the therapist sometimes isn’t sure whether
+or how to incorporate them into the sessions. A few words on these topics are appropriate here.
+Once therapists have conducted protocol therapy a few times, they usually find that they become
+more efficient and effective therapists. They learn to guide the therapy without tangents or
+delays. They find they can develop rapport with patients through the use of Socratic questions
+because the patients are explaining to the therapist exactly how they feel and think and the
+therapist expresses interest and understanding with these questions. There is usually enough time
+in the session to cover the material for the session and still have time for some other topics, such
+as things that came up that week or considering other current issues related to their PTSD
+(childrearing, job concerns marital issues, etc.). However if those are major issues, then the
+therapist will need to prioritize the order. It would be inadvisable to try to deal with several
+types of therapy for different problems simultaneously.
+Normally, comorbid depression, anxiety, and dissociation remit along with PTSD, so we
+rarely believe there is a need to deal with other symptoms independently of the PTSD protocol.
+Substance dependence should be treated prior to addressing PTSD, but substance abusing
+patients may be treated with CPT if there is a specific contract for not drinking abusively during
+the therapy and if there is a specific focus on the suspected role of abusive drinking as avoidance
+coping (for more information on comorbidity see Section 3). Typically we have the patients
+focus on specific child, family, and marital issues after completing the course of PTSD
+treatment. Sometimes those problems remit when the patient no longer has PTSD interfering
+with functioning. Other considerations regarding comorbidity are found later in the manual.
+Most veterans present for PTSD treatment many years after the traumatic event. They
+are usually not in crisis and are able to handle their day-to-day lives (at whatever level they are
+functioning) without constant intervention. Much of the disruption in the flow of therapy for
+PTSD comes from avoidance attempts on the part of the patient. We point out avoidance
+whenever we see it (e.g., changing the subject, showing up late for sessions), and remind the
+patient that avoidance maintains PTSD symptoms. If the patient wants to discuss other issues, we
+save time at the end of the session or attempt to incorporate their issues into the skills that are
+being taught (i.e., A-B-C sheets, Challenging Questions, Patterns of Problematic Thinking,
+Challenging Beliefs worksheets). If the patient does not bring in practice assignments, we do not
+delay the session, but conduct the work in session and then reassign the practice assignment
+along with the next assignment.
+Returning OEF/OIF veterans may have different needs than older veterans. They may
+prefer two sessions a week so that they can get therapy finished quickly. They may request early
+morning or evening appointments to accommodate their jobs. They may want their PTSD
+treatment augmented with couples counseling. They may appear a bit more “raw” than the very
+chronic Vietnam veterans that most VA clinicians are accustomed to working with. The more
+accessible emotions are actually an advantage in processing the traumatic events and in
+motivating change, but therapists who have worked with only very chronic (and numbed)
+veterans may become alarmed when they first work with these patients. They may think that
+strong emotions or dissociation should be stabilized or medicated first. However, CPT was
+developed and tested first with rape victims who may also be very acute and very emotional. As
+
+4
+long as patients are willing to engage in therapy and can contract against self-harm and acting
+out, there is no reason to assume that they need to wait for treatment.
+It is recommended that the patient be assessed, not just before and after treatment, but
+during treatment as well. We typically give patients a brief PTSD scale and a depression scale
+(if comorbid depression is a problem) once a week. Most often there is a large drop in symptoms
+when the assimilation about the trauma is resolving. Typically this occurs around the 5th or 6th
+session with the written exposure and cognitive therapy focusing on the traumatic event itself.
+Occasionally this takes longer, but with frequent assessment, the therapist can monitor the
+progress and see when the shift occurs.
+Theory
+CPT is based on a social cognitive theory of PTSD that focuses on how the traumatic event
+is construed and coped with by a person who is trying to regain a sense of mastery and control in
+his/her life. The other major theory explaining PTSD is Lang’s2 (1977) information processing
+theory, which was extended to PTSD by Foa, Steketee, and Rothbaum3 (1989) in their emotional
+processing theory of PTSD. In this theory, PTSD is believed to emerge due to the development of
+a fear network in memory that elicits escape and avoidance behavior. Mental fear structures
+include stimuli, responses, and meaning elements. Anything associated with the trauma may elicit
+the fear structure or schema and subsequent avoidance behavior. The fear network in people with
+PTSD is thought to be stable and broadly generalized so that it is easily accessed. When the fear
+network is activated by reminders of the trauma, the information in the network enters
+consciousness (intrusive symptoms). Attempts to avoid this activation result in the avoidance
+symptoms of PTSD. According to emotional processing theory, repetitive exposure to the
+traumatic memory in a safe environment will result in habituation of the fear and subsequent
+change in the fear structure. As emotion decreases, patients with PTSD will begin to modify their
+meaning elements spontaneously and will change their self-statements and reduce their
+generalization. Repeated exposures to the traumatic memory are thought to result in habituation or
+a change in the information about the event, and subsequently, the fear structure.
+Although social cognitive theories are not incompatible with information/emotional
+processing theories, these theories focus beyond the development of a fear network to other
+pertinent affective responses such as horror, anger, sadness, humiliation, or guilt. Some emotions
+such as fear, anger, or sadness may emanate directly from the trauma (primary emotions),
+because the event is interpreted as dangerous, abusive, and/or resulting in losses. It is possible
+that secondary, or manufactured, emotions can also result from faulty interpretations made by the
+patient. For example, if someone is intentionally attacked by another person, the danger of the
+situation would lead to a fight-flight response and the attending emotions might be anger or fear
+(primary). However, if in the aftermath, the person blamed himself or herself for the attack, the
+person might experience shame or embarrassment. These manufactured emotions would have
+2
+
+Lang, P. J. (1977). Imagery in therapy: An information processing analysis of fear. Behavior Therapy, 8, 862-886.
+
+3
+
+Foa, E. B., Steketee, G. S., & Rothbaum, B. 0. (1989). Behavioral/cognitive conceptualizations of posttraumatic
+stress disorder. Behavior Therapy, 20, 155-176.
+
+5
+resulted from thoughts and interpretations about the event, rather than the event itself. As long as
+the individual keeps saying that the event was their fault, they keep producing shame (hence,
+manufactured).
+Social-cognitive theories focus more on the content of cognitions and the effect that
+distorted cognitions have upon emotional responses and behavior. In order to reconcile the
+information about the traumatic event with prior schemas, people tend to do one or more of three
+things: assimilate, accommodate, or over-accommodate. Assimilation is altering the incoming
+information to match prior beliefs (“Because a bad thing happened to me, I must have been
+punished for something I did”). Accommodation is altering beliefs enough to incorporate the
+new information (“Although I didn’t use good judgment in that situation, most of the time I make
+good decisions”). Over-accommodation is altering ones beliefs about oneself and the world to
+the extreme in order to feel safer and more in control (“I can’t ever trust my judgment again”).
+Obviously, therapists are working toward accommodation, a balance in beliefs that takes into
+account the reality of the traumatic event without going overboard.
+In a social-cognitive model, affective expression is needed, not for habituation, but in
+order for the affective elements of the stored trauma memory to be changed. It is assumed that
+the natural affect, once accessed, will dissipate rather quickly, and will no longer be stored with
+the trauma memory. Also, the work of accommodating the memory and beliefs can begin. Once
+faulty beliefs regarding the event (self-blame, guilt) and over-generalized beliefs about oneself
+and the world (e.g. safety, trust, control esteem, intimacy) are challenged, then the secondary
+emotions will also decrease along with the intrusive reminders. The explanation that CPT
+therapists give to patients about this process is described in Session 1 along with a handout in the
+patient materials section.
+Because we know that PTSD symptoms are nearly universal immediately following a
+serious traumatic stressor and that recovery takes a few months under normal circumstances, it
+may be best to think about diagnosable PTSD as a disruption or stalling out of a normal recovery
+process, rather than the development of a unique psychopathology. The therapist needs to
+determine what has interfered with normal recovery. In one case, it may be that the patient
+believes that he will be overwhelmed by the amount of affect that will emerge if he stops
+avoiding and numbing himself. Perhaps he was taught as a child that emotions are bad, that “real
+men” don’t have feelings and that he should “just get over it”. In another case, a patient may
+have refused to talk about what happened with anyone because she blames herself for “letting”
+the event happen and she is so shamed and humiliated that she is convinced that others will
+blame her too. In a third case, a patient saw something so horrifying that every time he falls
+asleep and dreams about it, he wakes up in a cold sweat. In order to sleep, he has started drinking
+heavily. Another patient is so convinced that she will be victimized again that she refuses to go
+out any more and has greatly restricted her activities and relationships. In still another case, in
+which other people were killed, a patient experiences survivor guilt and obsesses over why he
+was spared when others were killed. He feels unworthy and experiences guilt whenever he
+laughs or finds himself enjoying something. In all of these cases, thoughts or avoidance
+behaviors are interfering with emotional processing and cognitive restructuring. There are as
+many individual examples of things that can block a smooth recovery as there are individuals
+with PTSD.
+
+6
+
+Overview
+The contents of each session are described along with issues that therapists are likely to
+encounter. The therapy begins with an education component about PTSD and the patient is asked
+to write an Impact Statement in order for the patient and therapist to begin to identify problem
+areas in thinking about the event (i.e., “stuck points”). The patient is then taught to identify and
+label thoughts and feelings and to recognize the relationship between them. Then the next two
+sessions focus on generating a written account of the worst traumatic incident, which is read to
+the therapist in session. During the first five sessions, the therapist uses Socratic questioning to
+begin to challenge distorted cognitions, particularly those associated with assimilation like selfblame, hindsight bias and other guilt cognitions. Thereafter, the sessions focus on teaching the
+patient cognitive therapy skills and finally focus on specific topics that are likely to have been
+disrupted by the traumatic event: safety, trust, power/control, esteem, and intimacy.
+After the individual CPT protocol is described in detail, there are subsequent sections on
+using the protocol without the written trauma exposure component, a section on delivering CPT
+in a group format and a section on treatment issues with comorbid disorders,
+It is strongly recommended that the protocol be implemented in the order presented here.
+The skills and exercises are designed to build upon one another, and even the modules in the last
+five sessions follow in the hierarchical order in which they are likely to emerge with patients.
+However, when used individually, the last five sessions may be modified depending upon the
+particular issues that a patient reports. For example, if a patient has severe safety issues, but no
+issues with esteem or intimacy, then the therapist may want to skip the later two modules and
+focus more time on safety. Conversely, if someone had no safety or control issues but was
+primarily troubled with self-trust and self-esteem issues, then the therapist may want to spend
+more time on those modules. However, even if a patient has not mentioned an issue within a
+particular domain of functioning (safety, trust, power/control, esteem, intimacy), it may be
+helpful for him to read the module and complete worksheets on any stuck points that become
+apparent. It is not unusual for the modules to reveal issues that had not been identified earlier in
+therapy.
+The usual format for sessions is to begin with review of the practice assignments,
+followed by the content of each specific session. During the last 15 minutes of the session, the
+assignment for the next week is introduced and is accompanied by the necessary explanation,
+definition(s), and handout. It is not recommended that the therapist start a general discussion at
+the beginning of the session, but should begin immediately with the practice assignment that was
+assigned. If the patient wishes to speak about other topics, we either use the topic to teach the
+new skills we are introducing (e.g., put the content on an A-B-C sheet) or we save time at the end
+for these other topics, reinforcing the trauma work with discussion of the topic. If the therapist
+allows the patient to direct the therapy away from the protocol, the avoidance will be reinforced,
+along with disruption in the flow of the therapy. In addition, placing the practice assignments last
+in the session will send a message to the patient that the practice assignments are not very
+important and may lead to less treatment adherence on the part of the patient. Among the most
+difficult skills for the therapist to master, especially if s/he has been trained in more non-directive
+
+7
+therapies, is how to be empathic but firm in maintaining the protocol. If a patient does not bring
+in his/her practice assignment one session, it does not mean that the therapy is delayed for a
+week. The therapist has the patient do the assignment orally (or they complete a worksheet
+together) in the session and reassigns the uncompleted assignment along with the next
+assignment.
+Part 2
+Cognitive Processing Therapy: Session by Session
+It is presumed that the therapist will have conducted some form of assessment of the patient’s
+traumatic event and persistent symptoms, and specifically contracted to do a course of CPT prior
+to undertaking the first session. At least a brief assessment of PTSD and depressive symptoms
+should be conducted. There are several brief PTSD checklists and depression scales that can be
+used to assess pretreatment symptoms, as well as to conduct repeated assessments during therapy
+to monitor the course of treatment.
+Session 1: Introduction and Education Phase
+Therapist Overview
+Overall, there are several goals for the first session: 1) build rapport with the patient, 2)
+to educate the patient regarding symptoms of posttraumatic stress disorder and depression, 3) to
+provide a rationale for treatment based on a cognitive conceptualization of PTSD, 4) to lay out
+the course of treatment, and 5) to elicit treatment compliance.
+It is necessary to address compliance early in the course of therapy because avoidance
+behavior (half of the symptoms of PTSD) can interfere with successful treatment. We are
+concerned with two forms of compliance: attendance and completion of out-of-session practice
+assignments. It is strongly recommended that patients attend all sessions and complete all
+assignments in order to benefit fully from therapy. We attempt to set the expectation that
+therapy benefit is dependent on the amount of effort they invest through practice assignment
+compliance and practice with new skills. It may be helpful to remind the patient that what he4 has
+been doing has not been working, and that it will be important to tackle issues head-on rather
+than continue to avoid. Avoidance of affective experience and expression should also be
+addressed.
+In this session, patients are also given the opportunity to ask any questions they may have
+about the therapy. Sometimes patients’ stuck points become evident in the questions and
+concerns they express during this first session. And finally, as with all therapies, rapport
+building is crucial for effective therapy. The patient needs to feel understood and listened to,
+otherwise she may not return.
+
+4
+
+Because of the awkwardness of the English language and the desire to refer to a single patient, the pronouns “he”
+and “she” will be used alternately, rather than saying “she/he”, “him/her” throughout the manual. The term soldier
+will also be used as a generic term rather than soldier, marine, sailor, airman etc., and will be used interchangeably
+with veteran.
+
+8
+Patients sometimes arrive with a press to speak about their story. However, the therapist
+should prevent the patient from engaging in an extended exposure session at the first session.
+Intense affect and graphic details of an event, disclosed before any type of rapport or trust has
+been established, may well lead to premature termination from therapy. The patient is likely to
+assume that the therapist holds the same opinions regarding his guilt, shame, or worthlessness
+that he, the patient, holds, and may be afraid to return to therapy after such a disclosure.
+Other patients will be very reluctant to discuss the traumatic event and will be quite
+relieved that they do not have to describe it in detail during the first session. In these cases, the
+therapist may have to draw out even a brief description of the event. Dissociation when
+attempting to think about or talk about the event is common. An initial assessment session grants
+the patient and therapist the opportunity to get acquainted before the therapy begins, and allows
+the therapist to provide the patient with a description of what the therapy will entail. In this first
+session, it is important that the therapist remind the patient that CPT is a very structured form of
+therapy, and that the first session is a bit different from the others because the therapist will do
+more talking. The therapist begins with a description of the symptoms of PTSD and a cognitive
+formulation of them.
+Therapist explanations to patient
+1. PTSD symptoms
+"In going over the results of your testing, we found that you are suffering from posttraumatic stress disorder. The symptoms of PTSD fall into three clusters. The first cluster is the
+re-experiencing of the event in some way. This includes nightmares about the event or other
+scary dreams; flashbacks, when you act or feel as if the incident is recurring; intrusive thoughts,
+which are memories that suddenly pop into your mind. You might have the intrusive thoughts
+when there is something in the environment to remind you of the event (including anniversaries
+of the event) or even when there is nothing there to remind you of it. Common times to have
+these memories are when you are falling asleep, when you relax, or when you are bored. These
+symptoms are all normal following such a traumatic event. You are not going crazy. Can you
+give me examples of these experiences in your own life since the event?...
+"A second set of symptoms concern arousal5. As might be expected, when reminded of the
+event, you are likely to experience very strong emotions. Along with these feelings are physical
+reactions. Indicators of arousal symptoms include problems falling or staying asleep, irritability
+or outbursts of anger, difficulty concentrating, startle reactions like jumping at noises or if
+someone walks up behind you, always feeling on guard or looking over your shoulder even when
+there is no reason to. Which of these do you experience?...
+"The third cluster of symptoms is avoidance of reminders of the event. A natural reaction to
+intrusive reminders and strong emotional reactions is the urge to push these thoughts and
+feelings away. You might avoid places or people who remind you of the event. Some people
+avoid watching certain television programs or turn off the TV. Some people avoid reading the
+newspaper or watching the news. You might avoid thinking about the event and letting yourself
+5
+
+Although avoidance is listed second in the DSM, it makes more sense to present the symptoms to patients in their
+most likely order, intrusion, arousal, and avoidance. This way the explanation for the symptoms follows logically
+from their description.
+
+9
+feel your feelings about the event. There might be certain sights, sounds, or smells that you find
+yourself avoiding or escaping from because they remind you of the event. Sometimes people
+have trouble remembering all or part of the event. Sometimes people feel numb and cut-off from
+the world around them. This feeling of detachment or numbness is another form of avoidance.
+Sometimes it is described as feeling as though you are watching life from behind glass. Which
+things or thoughts do you avoid or run away from?... Have you felt numb or shut off from your
+emotions?... Have you found yourself feeling disconnected from other people?
+2. Trauma Recovery and Fight-Flight Response
+“Many people are exposed to traumatic events. In the time immediately following a trauma,
+most people will have the symptoms of PTSD that we just talked about. However, over time, for
+many people, those symptoms naturally decrease, and they are not diagnosed with PTSD. In
+other words, they naturally recover from the traumatic event. There are some people who do not
+recover and are later diagnosed with PTSD. Based on that, it is helpful to think of PTSD as a
+problem in recovery. Something got in the way of you having that natural process of recovery,
+and our work together is to determine what got in the way and to change it so that you can
+recover from what happened. We will be working to get you ‘unstuck’”.
+There are some different reasons why you may be having trouble recovering. First, there
+may be an automatic component during the event that you should consider as you evaluate how
+you responded during the event. When people face serious, possibly life-threatening events, they
+are likely to experience a very strong physical reaction called the fight-flight reaction. More
+recently we have learned that there is a third possibility, the freeze response. In the fight-flight
+reaction, your body is trying to get you ready to fight or flee danger. The goal here is to get all
+the blood and oxygen out to your hands, feet, and big muscle groups like your thighs and
+forearms so that you can run or fight. In order to do that quickly, the blood leaves your stomach
+or your head. You might feel like you have been kicked in the gut or are going to faint. Your
+body stops fighting off diseases and digesting food. You are not thinking about your philosophy
+of life and may have trouble thinking at all. The same thing happens with the freeze response, but
+in this case your body is trying to reduce both physical and emotional pain. You may have
+stopped feeling pain or had the sense that the event was happening to someone else as if it were
+a movie. You might have been completely shut down emotionally or even had shifts in
+perception like you are out of your body or that time has slowed down.
+If you have been thinking now of other things that you could have done then, you might
+need to consider what your state of mind was during the event. Did you have all possible options
+available to you? Did you know then what you know now? Do you have different skills now than
+you did then?
+Second, the fight-flight response that you were experiencing during the traumatic event can
+get quickly paired with cues, or things in the environment, that didn’t have any particular
+meaning before. Then later, when you encounter those cues, you are likely to have another fightflight reaction. Your nervous system senses the cue, which could be a sight, a sound, smell, or
+even a time, and then your body reacts as though you are in danger again. These reactions will
+fade over time if you don’t avoid those cues. However, if you avoid reminder cues, your body
+won’t learn that these are not, in fact, good danger cues. They don’t tell you very accurately
+
+10
+whether you are actually in danger so you may have false alarms going off frequently. After a
+while you won’t trust your own senses or judgment about what is and isn’t dangerous, and too
+many situations seem dangerous that are not.
+You may start to have thoughts about the dangerousness of the world, particular places,
+or situations that are based on your reactions rather than the actual realistic danger of those
+situations. This leads us to examine how your thoughts may affect your reactions. Besides
+thoughts about dangerousness, many different types of beliefs about ourselves and the world can
+be affected by traumatic events.
+3.
+
+Cognitive Theory
+“As you were growing up you learned about the world and organized it into categories
+or beliefs. For example, when you were small, you learned that a thing with a back, seat and
+four legs is a chair. In the beginning you just called all of them 'chair'. You may have even
+called a couch a chair or a stool a chair because they had a back, seat, and four legs. Later, as
+you got older, through experience, you learned more complex categories, so you may have
+learned dining room chair, rocking chair, recliner or folding chair. We develop many categories
+of ideas and beliefs about others, the world, and ourselves, as well as for objects.
+One common belief that many people get while growing up is that 'good things happen to
+good people and bad things happen to bad people.' This is called the 'just world belief.' You
+may have learned this through your religion, your parents, your teachers, or you may have
+picked it up as a way to make the world seem safer and more predictable. It makes more sense
+when you are young. For example, parents wouldn’t want to say, ‘If you do something you’re
+not supposed to, you may or may not get in trouble.’ However, as we grow up, we realize that
+the world is more complex than that, just like how we learn that there are all different types of
+chairs. If you have ever had things go bad and you said 'Why me?,' then you have a just world
+belief.
+"When an unexpected event occurs that doesn't fit your beliefs, there are different ways that
+you may try to make it fit. One way that you may have tried to make the event and your beliefs fit
+is by changing your memories or interpretation of the event to fit with your pre-existing beliefs
+(assimilation). Examples of changing your interpretations/memories of the event are to blame
+yourself for not preventing the event (or protecting loved ones), to have trouble accepting that
+the event happened, to 'forget' that it happened, or to forget the most horrifying parts. Changing
+the event may seem easier than changing your entire set of beliefs about the world, how people
+behave, or your beliefs about your safety.
+"It is possible that instead of changing the event, you may change your beliefs to accept
+what happened (accommodation). This is one of our goals for therapy. Unfortunately, some
+people go overboard and change their beliefs too much, which may result in a reluctance to
+become intimate or develop trust, and increased fear (over-accommodation). Examples that
+reflect an extreme change in beliefs include: thinking that no one can be trusted or that the world
+is completely dangerous.
+
+11
+“For some people who have had previous negative experiences in their life, traumatic
+events can seem to reinforce or confirm these previously held beliefs. For example, prior to
+having experienced a trauma you might have believed that others can’t be trusted or that the
+world is generally unsafe. The traumatic event comes along and seems to confirm those beliefs.
+Or, maybe you were told that everything was your fault growing up, so when a bad thing
+happens, it seems to confirm that once again, you are at fault.
+Our goals for therapy are: 1) to help you accept the reality of the event, 2) to feel your emotions
+about it and 3) to help you develop balanced and realistic beliefs about the event, yourself, and
+others.
+4.
+
+Types of Emotions
+“There are two kinds of emotions that follow traumatic events. The first type is the feelings
+that follow naturally from the event and that would be universal: fear when in real danger, anger
+when being intentionally harmed, joy or happiness with positive events, or sadness with losses.
+These natural emotions have a natural course. They will not continue on forever unless there is
+something that you do to feed them. It is important to feel these emotions that you may not have
+allowed yourself to experience about the event, and let them run their natural course.
+The second type of emotions, manufactured feelings, result not directly in response to the
+event, but based on how you interpret the event. If you have thoughts such as ‘I should have
+rescued other people’ or ‘I must be a failure that I can’t get over it”, then you will be feeling
+angry at yourself or shame. These emotions are not based on the facts of the event, but on your
+interpretations. The more that you continue to think about the event in these ways, the more and
+more of the manufactured feelings you are going to have. The upside of the fact that you are
+producing these feelings is that, if you change your thoughts and interpretations, you will
+change your feelings. Think of your emotions as a fire in a fireplace. The fire has energy to it.
+However, it will burn out if it is not continually fed. The self-blame or guilty thoughts can
+continue to feed the emotional fire indefinitely. Take away the fuel of your thoughts, and the fire
+burns out quickly.
+In order for you to recover from your traumatic event(s), we will be working together for
+you to express and accept your natural emotions and to adjust the manufactured feelings.
+Brief Review of Most Traumatic Event
+In this first session, the therapist and patient work together to define the most traumatic
+event that they will work on first. The patient then provides a brief account of the traumatic
+event. It is important the therapist keep the patient contained and not conduct an exposure to the
+traumatic material. Most veterans have a ‘public version’ of the incident that they can use that
+does not elicit much affect. However, if the patient starts to become distressed or dissociates, the
+therapist should ask questions and keep the patient grounded in the present. If needed, they can
+stop the patient’s description. The therapist only needs enough of the details to begin to
+hypothesize what problematic interpretations and cognitions might need to be explored.
+
+12
+We begin with the worst incident because there is more likely to be generalization of new,
+more balanced cognitions from the worst event to less severe events than the other way around.
+Also, if the patient begins with a less severe event because she believes she cannot handle the
+worst event, she will still believe that after working on this event. If the patient is resistant to
+writing an account about the worst event, the therapist needs to do some cognitive therapy during
+session two and have the patient complete some A-B-C sheets on her thoughts and feelings about
+working on the worst event (see sessions 2 and 3).
+It is helpful to provide an expectation that the patient provide a brief, less affect-charged
+event by providing a timeframe in the request.
+“In order for me to have a clearer picture of what we will be working on first, could you
+please give me a brief description, about five minutes, of the most traumatic event…”
+If the patient responds that he has multiple traumatic events that disturb him, making it
+difficult or impossible to choose the ‘most’ traumatic event, first validate the fact that he may
+have multiple distressing events. Then, focus on ascertaining which one seems to be causing the
+most PTSD symptoms by inquiring about the content of his reexperiencing symptoms. The
+therapist can ask, ‘What do you think about or have flashbacks about the most?’ It may also be
+helpful to probe about his behavioral avoidance symptoms to determine the event that should
+addressed first. Remind the patient that work on the chosen event will very likely impact the
+other events, and if not, there will be opportunities to work on the other events.
+Therapy Rationale - Stuck Points
+"So, one goal of therapy will be to help you recognize and modify what you are saying to
+yourself-in other words, your thoughts and interpretations about the event, which may have
+become automatic. These distorted beliefs may become so automatic that you aren't even aware
+that you have them. Even though you may not be aware of what you are saying to yourself, your
+beliefs and self-statements affect your mood and your behavior. Often, people aren't aware that
+they are having thoughts about whatever they are experiencing. For example, on the way here
+today, you were probably wondering what this therapy would be like or what I would be asking
+you to talk about. Do you remember what you were thinking about before the session?...
+"I will be helping you to identify what your automatic thoughts are and how they influence
+what you feel. I will also teach you ways to challenge and change what you are saying to
+yourself and what you believe about yourself and the event. Some of your beliefs about the event
+will be more balanced than others. You remember that we discussed at the beginning of this
+session about how some people get stuck in their recovery process. We will be focusing on
+changing the beliefs that are interfering with your recovery or keeping you stuck. We call these
+problematic beliefs ‘stuck points.’ (The patient is given the handout on stuck points and the
+Stuck Point Log). We will keep a Stuck Point Log in your folder so as we identify problematic
+ideas we can write them down. Then when we move to different worksheets you will have this list
+to draw on.
+
+13
+Anticipating Avoidance and Increasing Compliance
+The patient has been avoiding thinking about the event thereby escaping and avoiding strong
+and unpleasant emotions. The therapist must develop a strong and compelling rationale for
+therapy in order for the patient to be motivated to do something completely antithetical to what
+they have been doing. It is very important that the patient understand what the therapy consists of
+and why it will work. They should have ample opportunity to ask questions and express
+concerns. The therapist needs to express confidence, warmth, and support.
+I cannot emphasize enough how important it is that you not avoid, which is what you
+usually have done to try to cope since the event. This will be your biggest (and probably
+scariest) hurdle. I cannot help you feel your feelings, or challenge your thoughts if you don't
+come to therapy or if you avoid completing your practice assignments. If you find yourself
+wanting to avoid, remind yourself that you are still struggling with the event because you have
+avoided dealing with it head-on.
+The therapist should describe the course of therapy (and the nature of the trauma account in
+sessions four and five) and the importance of doing practice assignments.
+“There are 168 hours in a week. We cannot expect you to change your symptoms and the
+way you have been coping in one or two hours a week if you are continuing to practice your old
+ways of thinking the other 166 hours a week. It will be important for you to take what you are
+learning and apply it to your everyday life. Your therapy needs to be where your life is, not just
+in this little room”.
+First Impact Statement
+"For the next session, I want you to start working on how you think about and explain the
+traumatic event. I also want you to pay attention to how the traumatic event impacted on your
+views of yourself, other people, and the world. I want you to write at least one page on 1) why
+this event happened to you, and 2) how has it changed or strengthened your views about
+yourself, other people and the world in general?
+In order for this assignment to be most helpful to you, I strongly suggest you try to start this
+assignment soon, so that you have enough time to write thoughtfully. Pick a time and place
+where you have as much privacy as possible, so you can feel any feelings that arise as you
+complete the assignment.”
+The patient is given a practice assignment sheet. If at all possible, the patient should handwrite
+the Impact Statement. Some patients will want to type on the computer. Research suggests that
+word processing can impede engagement with the assignment (e.g., too focused on grammar or
+spelling). Therefore, encourage that this and other assignments be handwritten. It is often
+helpful to remind them that you are not grading their work or interested in their grammar, etc.
+Rather, you’re interested in the content and feelings. If the patient has problems with literacy or
+physical disabilities that make it difficult or impossible to write, the therapist might suggest that
+he record his thoughts into a tape recorder.
+
+14
+
+Practice assignment:
+Please write at least one page on why this traumatic event occurred. You are not being asked to
+write specifics about the traumatic event. Write about what you have been thinking about the
+cause of the worst event. Also, consider the effects this traumatic event has had on your beliefs
+about yourself, others, and the world in the following areas: safety, trust, power/control, esteem,
+and intimacy. Bring this with you to the next session.
+Also, please read over the handout I have given you on stuck points so that you understand the
+concept we are talking about.
+
+15
+Traumatic Bereavement Session (Session 2 if applicable)
+The goals for this session are to 1) determine the impact of the traumatic event on beliefs
+about self and others, 2) begin to normalize the grief process and differentiate it from PTSD
+symptoms, 3) identify stuck points that may interfere with the normal course of bereavement,
+and 4) begin to assist the patient in viewing her relationship with the person who died as altered,
+but not finished.
+If this session is added, then the therapist will have the patient read the Impact Statement
+first before turning to the topic of grief. Please see the regular session two, next, for comments
+regarding avoidance and what to do if the patient did not complete the assignment. After
+discussing the Impact Statement and identifying stuck points that are evident, the therapist will
+begin an education portion on the topic of normal bereavement and will look for stuck points that
+may interfere with normal grief reactions. To facilitate this process, some information is
+provided below to assist the therapist to think about traumatic versus normal bereavement issues,
+and to provide some education to the patient regarding the course of bereavement as varying and
+multidimensional. It is important for the therapist to refrain from pathologizing the grief process
+and to begin to differentiate grief from PTSD or depression.
+Therapist overview: Traumatic bereavement
+PTSD can interfere with the normal course of bereavement. It is also possible that
+unresolved grief can further complicate recovery from PTSD. Although witnessing or being
+injured during an event in which a loved one/friend was killed is more obviously associated with
+PTSD, therapists need to consider a PTSD diagnosis among those who were not present at the
+traumatic death of a loved one. In civilian life, the sudden, unexpected and perhaps violent death
+of a significant other is so shocking, horrifying, and schema-discrepant that family and friends of
+the victim may have trouble taking in the fact that the person has been killed. During war,
+soldiers may accept the possibility that they or others may be killed, on an abstract level, but
+losing friends, seeing children die, or having deaths occur in unexpected places (when one
+thought he was safe), can also be shocking and hard to accept. Acceptance may be particularly
+difficult for parents who lose children because of the expectation that their children will survive
+them. And like other trauma survivors who actively avoid accepting the reality of the situation,
+traumatic-death surviving family and friends may engage in self-blame as an attempt to undo the
+event (e.g., “If only I hadn’t done X, he wouldn’t have been there at the time”). Unlike other
+trauma victims, traumatic death survivors may believe that to accept the trauma and begin to
+move on with their lives means they have betrayed the other person, that the other person isn’t
+being properly honored.
+Flashbacks, intrusive thoughts, and other intrusive reminders can recur even if someone
+was not present at the death of their significant other. People may flash on or have strong
+emotional or physiological reactions when reminded of being informed of the death. For
+example, some people have strong reactions when the telephone or doorbell rings. They
+immediately flash back to being told. Some people have strong reactions to temporal cues such
+as a specific time of day, dusk, a certain month, or other anniversaries of the death. They may
+react to climactic cues such as temperature, humidity, smells or other seasonal reminders.
+
+16
+Holidays or other personal days of celebration (birthdays, anniversaries) can be particularly
+difficult and can trigger trauma cues (as well as positive memories).
+It is not unusual for people to have images of or ruminate about (with accompanying
+affect and physiological responses) what they imagine happened to their loved one/friend. Some
+people feel compelled to put themselves into the shoes of the person who died in an attempt to be
+closer with them. They try to imagine what the other person experienced, what they must have
+been feeling or thinking, and wonder if they suffered or were in pain for a long time before they
+died. These images can serve as intrusive reminders of PTSD (Criterion B).
+Often with PTSD induced by traumatic bereavement, we do not see effortful avoidance
+with regard to the person who died. To the contrary, some people intentionally ruminate and are
+afraid to let go of the images, even very distressing images, because to let go is, in their minds, to
+lose their loved one. Effortful avoidance is more likely to be of the trauma cues listed above.
+Numbing is common.
+When some people are killed during a traumatic event, those who survive, whether they
+are friends, family, or strangers, may well have survivor guilt. When people experience
+traumatic events, they often ask the question, “Why me?” because of their just world belief. A
+corollary of this belief is asking “Why not me?” when surrounding others are killed. People with
+survivor guilt feel that they do not have the right to go on when others are not, or believe that
+they are less deserving of happiness (or even of living) than the person or people who died. They
+try to determine why they survived and cannot find an acceptable explanation.
+An issue that may need to be addressed with military and veteran populations is not just
+witnessing or hearing about the death of someone the patient cared about, but also issues that
+arise from having killed themselves. Soldiers may find themselves forced to engage in behavior
+that is against their personal moral code, or in conflict with the circumstances under which they
+believed that they would be killing others. In our experience, situations in which civilians, and
+especially children, are killed are especially traumatic for veterans and servicemen (e.g., children
+with backpack bombs, children put in front of transportation convoys). Grieving and
+assumptions about one’s actions during war can be very complicated because of the nature of
+war itself. Veterans and military personnel may blame themselves, the combatants, the
+government that put them in the position they found themselves, or the behavior and perceived
+failures of command or fellow soldiers. The combination of anger and guilt can complicate and
+prolong the grief response.
+The goal of CPT for bereavement is to help patients determine and eliminate any stuck
+points, problematic cognitions that are blocking their recovery, and to help them eventually focus
+on the person’s life, not just the way in which he or she died.
+First the therapist can start with bereavement issues…
+“Prior to this death, what has been your experience with the death of loved ones?”
+
+17
+If the patient has never experienced the death of a loved one, then ask “What were your
+expectations about death of loved ones? Had you ever thought about it? Or was it a topic that
+you avoided thinking about?”
+Once the therapist understands what the patient understood about death and the grief
+process prior to the traumatic death, s/he can then ask..
+“How is this situation different than what you had experienced before (or imagined)?”
+“What have other people been telling you about grief and mourning?
+“What suggestions have people been making?”
+Give the patient(s) the Myths of Mourning handout. Discuss each of the statements with
+the patient to determine which, if any, statements the patient has been subscribing. Along with
+debunking some common myths, the therapist uses this session to help the patient understand the
+normal process of bereavement, to see how the traumatic bereavement relates to symptoms of
+PTSD, and to begin to identify distorted cognitions, conflicts between prior beliefs and the
+traumatic event.
+Education on Normal Bereavement
+Bereavement affects different aspects of one’s life. People have emotional, spiritual, and
+physical reactions. They also have to adjust their roles with regard to other people, the
+community more generally, and with regard to tasks and behaviors. While some grief reactions
+may feel like and share some characteristics with other psychological reactions such as
+depression, it is important for the therapist not to pathologize grief. Bereavement is not the result
+of personality traits, but is the normal and time-limited reaction to loss. Mourning is not the same
+as depression and does not respond to anti-depressants.
+In the past it was possible to tell that someone was grieving for a period of time because
+of clothing indicative of mourning and institutionalized rules about mourning such as wearing
+black for a year, wearing certain jewelry or armbands, limiting social engagements and so forth.
+These practices provided more community support because the person who was grieving was
+clearly identifiable and there was an expectation that bereavement should take an extended
+period of time. On the other hand, the rigid rules about length of mourning were not flexible
+enough to accommodate different patterns of grief. Some people may not have needed a year in
+order to begin to reestablish their lives (some may have needed longer). In modern times, there is
+no way to identify whether someone is in mourning, so the community quickly returns to usual
+routines and expects the bereaved person to do so as well. While community support is often
+very active initially, people often return to their own lives after a few months, leaving the
+bereaved adrift to adjust to their changes in roles and tasks. After a few months grieving people
+may start receiving comments by others that they should move on with their lives and to put the
+traumatic event and the loved one behind them (people with PTSD hear this all the time even
+without a traumatic death). People may need assistance in tolerating the predominant community
+standards that do not reflect the reality of the mourning timeline for them.
+In the early stages of bereavement, people need information and support in coping
+emotionally. Later, if the person who died is a family member, they need to focus more on
+
+18
+instrumental tasks. Some tasks, like dealing with insurance companies and changing names on
+titles are directly due to the death of the family member. Other tasks represent a realignment of
+typical chores (e.g., now the patient needs to pay bills or cook, when before the other partner
+took responsibility for those tasks). Each of these instrumental adjustments, if successfully
+negotiated, will help the bereaved person accept the reality of the situation and assist in a greater
+sense of control. As the tasks and roles are realigned, then the person also moves to reconnect
+with his community, reestablish and adjust relationships with their friends and relatives and
+finally to rebuild his assumptive world. This latter task includes adjusting his beliefs about
+himself and the world, with regard to the loved one’s death. As elsewhere in CPT, the therapist
+is looking for accommodation rather than assimilation or over-accommodation, balance in beliefs
+rather than extreme statements.
+Sometimes the bereavement process for military personnel becomes more acute once
+they leave the military. While in the military, other people in that environment may have been
+able to provide support and understanding of the losses that a soldier experienced. Upon
+returning to the civilian world, however, people in the environment may not be able to
+understand or appreciate the loss of comrades, or may even be unsympathetic because of
+different viewpoints on the war. Although our society appears to be doing a better job separating
+the war from the warrior in the recent OEF/OIF conflict, this is not universally true and there are
+many Vietnam veterans who carry the scars of verbal abuse upon returning to the US after their
+tours of duty in Vietnam. They may not have been given the opportunity to grieve the loss of
+their friends and fellow soldiers or may be stuck in a cycle of grieving that has not remitted.
+The following are excerpts from a bereavement Impact Statement. The statement was
+four hand-written pages. It illustrates the effects the murder of a granddaughter had on a patient.
+I think at first I needed to be strong from my son. As long as I could do that, I did not
+have to face the finality of death. This is still so hard for me to say. To think of ______ in the past
+tense still causes me to have a panicky feeling. I cannot describe how much I love her or how
+much I miss her.
+I thought I would always be the same me. But now I realize I will never be the same. At
+first I kept trying to be the same self- Tried so hard that I would get these panic attacks, so I just
+tried not to think about it.
+I feel like this big cloud has settled over me and sometimes it suffocates me. I would like
+to just pull the covers over my head and not take them off for a long time. But I know I can’t,
+especially for my son. He says he would like to go into a closet and not come out.
+I talked today with my Pastor about my feelings, how I feel so frozen inside, that I cannot
+pray and do not feel spiritual at all. It makes me feel so empty. I miss the fellowship I had with
+my God. I do want to have that again.
+Some people say I need to try to forgive – I can’t and I don’t want to – at least not now…
+I really don’t want to be angry – this is not me. But right now I’m so angry.
+While the example above illustrates assimilation through non-acceptance and avoidance,
+the next excerpts from a different patient whose friend was killed and illustrates both
+assimilation and over-accommodation.
+
+19
+I always believed that I could protect ______ from anything or anyone. I feel like a
+failure. I failed him. I should have been watching his back then no one would have been able to
+shoot him in his back. I could have administered CPR and helped to breathe in him the breath of
+life. He would have calmed down and fought harder if I had been there… Who knew? But I failed
+him and I don’t have any other chance to make it up to him.
+This world is a cruel world where no one seems to care about anyone outside of their
+own family… I trust no one outside of the family and I really am no longer close to my family. I
+no longer use the word “friend” because it no longer serves a purpose in my life. I feel
+abandoned by certain people in my family. They are already ready for me to move on. Isn’t that
+crazy?!
+It may be helpful for a patient to realize that his relationship with the deceased has
+changed rather than ended. The patient can still have a relationship with the deceased even
+though the relationship is not reciprocal. As part of the Impact Statement on the death of the
+significant other, the patient is asked, “How has the event affected your relationship with the
+deceased?”
+One of the problems that can occur early in the grieving process (and stall out in some
+cases) is the tendency to over-idealize the person who has died. It is difficult for the bereaved
+person to move on, reestablish connections with others, and alter her relationship with the
+deceased if the person who died is not the person who lived before. The loved ones may
+experience more survivor guilt or hindsight bias if they believe that the person who died was
+perfect or that it is bad/wrong to remember any flaws or foibles. The therapist needs to tread
+lightly on this topic, perhaps pursuing it later in therapy, although it can be broached gently at
+this time. The therapist, in hearing an over-idealized description of the deceased can say:
+“He sounds like an angel. I’d like to have a better picture of the whole man that you
+knew. Tell me a little about his eccentricities or habits”.
+The goal here is to help the patient to grieve for the person who really lived with an
+integrated and balanced view.
+In some cases, over-idealization may be a particular problem because the idealized image
+of the deceased is embraced by a whole community. In the aftermath of the World Trade Center
+attack, firefighters, police, and other rescue workers who died have been rightly hailed as heroes.
+Heroes are people who risk themselves to help others in spite of their fear or flaws, not because
+they were fearless and flawless. It may be particularly difficult for family members if their
+memories of the person clash with the public image. If a couple was having marital problems, or
+the partner was having an extra-marital affair, was abusive, or alcoholic, the surviving partner
+would not know how to reconcile this information with the accolades and images of the partner
+as a saint. Even to remember small flaws would seem like a betrayal of the person who died.
+And yet, the surviving partner and family members have these memories as well and struggle to
+deal with them. Some people attempt to suppress or ignore inconsistent information. If they are
+successful in avoiding, there is a greater likelihood of more prolonged bereavement than for
+those who can put the person’s life into an accurate perspective.
+
+20
+Pertinent to situations like the attack on September 11, 2001, and war, is the issue in
+which the body of the deceased is never found. It may be more difficult in these cases for the
+surviving family and friends to accept that the person is actually dead. When there is no concrete
+proof that the person died, assimilation and denial are more likely. The survivors may have
+continuing fantasies that there has been some mistake, that the loved one has been wandering
+around with amnesia or injured and unable to contact them. They may have extended periods
+during which acceptance of the reality of the situation is postponed.
+Finally, when a group of people experience the same event and then support each other in
+the aftermath, they can help each other progress through the various stages of grief. However,
+there are two risks. One is that the members of the group will be recovering at different rates,
+leading to misunderstandings or some people being held back from their natural rate. A worse
+outcome is that the group becomes stuck together and stop recovering altogether. They develop
+an us-against-them mentality in which they come to believe that no one can understand what
+they have experienced and that they can never recover. If someone who seeks therapy 

@@ -1,0 +1,11 @@
+NP: biological biology Force[N]: 102186236.607
+NP: human science Force[N]: 73012246.6426
+NP: cycle life Force[N]: 59506120.8481
+NP: energy nuclear Force[N]: 55809754.8106
+NP: god mind Force[N]: 30725419.7283
+NP: chemical reaction Force[N]: 26875142.4622
+NP: monad time Force[N]: 21033195.8889
+NP: church news Force[N]: 18570203.5238
+NP: african blood Force[N]: 17772852.6212
+NP: code genetic Force[N]: 17321153.5297
+>>> Elapsed Time: 134.903100014

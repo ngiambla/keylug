@@ -1,0 +1,11 @@
+NP: atomic bomb Force[N]: 290205.92123
+NP: isotopes radioactive Force[N]: 33358.2243206
+NP: hexafluoride uranium Force[N]: 15645.2122989
+NP: manhattan project Force[N]: 14441.417503
+NP: chemical reaction Force[N]: 13873.7157348
+NP: energy explosion Force[N]: 10203.9193469
+NP: mass supercritical Force[N]: 9384.66251442
+NP: neutrons thermal Force[N]: 6179.25
+NP: effectively separate Force[N]: 4262.85041551
+NP: fissionable material Force[N]: 4227.99243856
+>>> Elapsed Time: 0.280246973038

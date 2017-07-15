@@ -1,0 +1,11 @@
+NP: trojans windows Force[N]: 4590590.20357
+NP: detection software Force[N]: 2828314.29561
+NP: security systems Force[N]: 833987.583736
+NP: infected yourself Force[N]: 474480.787548
+NP: access physical Force[N]: 333281.344676
+NP: attacker machine Force[N]: 259778.958461
+NP: desc url Force[N]: 180710.817211
+NP: address email Force[N]: 171889.088103
+NP: using youre Force[N]: 169346.382177
+NP: freeware program Force[N]: 151345.371389
+>>> Elapsed Time: 2.43645191193

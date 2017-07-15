@@ -1,0 +1,11 @@
+NP: filters web Force[N]: 44665.0534615
+NP: drivers uber Force[N]: 23796.4116113
+NP: conclusion furthermore Force[N]: 12249.382716
+NP: headers soccer Force[N]: 4994.98653235
+NP: experience personal Force[N]: 4344.4
+NP: couldnt research Force[N]: 3360.0
+NP: appeal author Force[N]: 2610.0
+NP: premises support Force[N]: 2598.23407407
+NP: article johnston Force[N]: 2179.46449704
+NP: brain damage Force[N]: 2160.0
+>>> Elapsed Time: 0.0509121417999
