@@ -145,7 +145,8 @@ def findAttraction():
 	predict=[]
 	gp=True
 	stop=time.time()
-	with open("extract_"+file,'w+') as fout:
+	#with open("extract_"+file,'w+') as fout:
+	if 1==1:
 		cutoff=0
 		size=len(outDict)
 		print("Relationships: "+str(size))
@@ -161,10 +162,10 @@ def findAttraction():
 				if gp:
 					predict.append(test[0].strip()+" "+test[1].strip())
 					print("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1]))
-					fout.write("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1])+"\n")
+					#fout.write("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1])+"\n")
 			else:
 				break
-		fout.write(">>> Elapsed Time: "+str(stop-start)+"\n")
+		#fout.write(">>> Elapsed Time: "+str(stop-start)+"\n")
 		print("\n>> Completed @ "+str(stop-start))
 
 def main():
