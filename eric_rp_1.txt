@@ -1,0 +1,2027 @@
+See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/260609038
+
+The	influence	of	financial	incentives	and	other
+socio-economic	factors	on	electric	vehicle
+adoption
+Article		in		Energy	Policy	·	May	2014
+DOI:	10.1016/j.enpol.2014.01.043
+
+CITATIONS
+
+READS
+
+133
+
+750
+
+4	authors,	including:
+Will	Sierzchula
+
+Sjoerd	Bakker
+
+Navigant	Consulting
+
+Sjoerd	Bakker	Research	&	Consultancy
+
+10	PUBLICATIONS			297	CITATIONS			
+
+33	PUBLICATIONS			673	CITATIONS			
+
+SEE	PROFILE
+
+SEE	PROFILE
+
+Kees	Maat
+Delft	University	of	Technology
+64	PUBLICATIONS			1,716	CITATIONS			
+SEE	PROFILE
+
+Some	of	the	authors	of	this	publication	are	also	working	on	these	related	projects:
+
+Development	and	Early	Adoption	of	Electric	Vehicles	View	project
+
+Activity	based	research	View	project
+
+All	content	following	this	page	was	uploaded	by	Will	Sierzchula	on	15	April	2014.
+The	user	has	requested	enhancement	of	the	downloaded	file.
+
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/authorsrights
+
+Author's personal copy
+Energy Policy 68 (2014) 183–194
+
+Contents lists available at ScienceDirect
+
+Energy Policy
+journal homepage: www.elsevier.com/locate/enpol
+
+The inﬂuence of ﬁnancial incentives and other socio-economic factors
+on electric vehicle adoption
+William Sierzchula a,n, Sjoerd Bakker b, Kees Maat a,b, Bert van Wee a
+a
+b
+
+Delft University of Technology, Faculty of Technology, Policy, and Management, The Netherlands
+Delft University of Technology, Faculty of Architecture and the Built Environment, The Netherlands
+
+H I G H L I G H T S
+
+
+
+
+
+
+This research analyzes electric vehicle adoption of 30 countries in 2012.
+Financial incentives and charging infrastructure were statistically signiﬁcant factors.
+Country-speciﬁc factors help to explain diversity in national adoption rates.
+Socio-demographic variables e.g., income and education level were not signiﬁcant.
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 5 November 2013
+Received in revised form
+24 January 2014
+Accepted 25 January 2014
+Available online 16 February 2014
+
+Electric vehicles represent an innovation with the potential to lower greenhouse gas emissions and help
+mitigate the causes of climate change. However, externalities including the appropriability of knowledge
+and pollution abatement result in societal/economic beneﬁts that are not incorporated in electric vehicle
+prices. In order to address resulting market failures, governments have employed a number of policies.
+We seek to determine the relationship of one such policy instrument (consumer ﬁnancial incentives) to
+electric vehicle adoption. Based on existing literature, we identiﬁed several additional socio-economic
+factors that are expected to be inﬂuential in determining electric vehicle adoption rates. Using multiple
+linear regression analysis, we examined the relationship between those variables and 30 national electric
+vehicle market shares for the year 2012. The model found ﬁnancial incentives, charging infrastructure,
+and local presence of production facilities to be signiﬁcant and positively correlated to a country's electric
+vehicle market share. Results suggest that of those factors, charging infrastructure was most strongly
+related to electric vehicle adoption. However, descriptive analysis suggests that neither ﬁnancial
+incentives nor charging infrastructure ensure high electric vehicle adoption rates.
+& 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Public policy
+Technology adoption
+Electric vehicles
+Eco-innovation
+
+1. Introduction
+The IPCC (2012) noted that climate change caused by rising
+levels of greenhouse gases (GHGs) poses a serious threat to the
+physical and economic livelihoods of individuals around the globe
+and could negatively affect ecosystems by putting 20–30% of plant
+and animal species at an increasingly high risk of extinction.1
+GHGs such as CO2 and N2O primarily come from the burning of
+fossil fuels during activities including electricity production and
+operating internal combustion engines. In 2010, the transport
+
+n
+
+Corresponding author. Tel.: þ 31 6 150 88735.
+E-mail address: w.s.sierzchula@tudelft.nl (W. Sierzchula).
+1
+This is posed by the IPCC with “medium conﬁdence” under a situation where
+global temperatures are 2–3 1C above pre-industrial levels.
+http://dx.doi.org/10.1016/j.enpol.2014.01.043
+0301-4215 & 2014 Elsevier Ltd. All rights reserved.
+
+sector accounted for 6.7 Gt of emitted CO2 or 22% of the world's
+total (IEA, 2012a). Furthermore, global fuel demand for transportation is projected to grow approximately 40% by 2035 (IEA,
+2012b). The IPCC noted the need to reduce GHG emissions
+(particularly in the energy and transport sectors) in order to avoid
+a 2.4–6.4 1C increase in 2090 temperatures relative to those from
+1990 (IPCC, 2012).
+Electric vehicles (EVs) are one possible innovation to help
+address the environmental concerns identiﬁed above. However,
+EV adoption is seen as being very limited without stimulation
+from external factors such as stringent emissions regulations,
+rising fuel prices, or ﬁnancial incentives (Eppstein et al., 2011;
+Shaﬁei et al., 2012; IEA, 2013). Of those factors, consumer subsidies
+are speciﬁcally identiﬁed as being necessary for EVs to reach a
+mass market (Hidrue et al., 2011; Eppstein et al., 2011). Part of the
+
+Author's personal copy
+184
+
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+reason that diffusion is expected to be so slow is that pollution
+abatement and knowledge appropriability2 externalities reduce EV
+development and consumer adoption, leading to an inefﬁcient
+allocation of goods and services known as a market failure
+(Rennings, 2000; Jaffe et al., 2005; Struben and Sterman, 2008).
+In the case of EVs, market failures distort their prices relative to
+ICEVs, which results in fewer electric automobiles being built by
+ﬁrms or bought by consumers. Consequently, the potential to
+address climate change through EV development and use is
+limited by externalities; neo-classical economics indicates that
+government policy should be employed to help correct for such
+situations (Rennings, 2000). Of these policy measures, demand
+side instruments such as consumer subsidies are viewed as being
+particularly important during the early commercialization period
+(IEA, 2013). However, based on previous studies, there are reasons
+to question how effective such ﬁnancial incentives would be in
+encouraging EV adoption.
+Firstly, the literature has presented conﬂicting results regarding
+the effect of consumer subsidies on hybrid-electric vehicle (HEV)
+adoption. While some studies have shown ﬁnancial incentives to
+be positively correlated to HEV sales (Beresteanu and Li, 2011;
+Gallagher and Muehlegger, 2011), Diamond (2009) found that
+higher fuel prices, not consumer subsidies, were related to
+increased adoption. In addition, Zhang et al. (2013) identiﬁed only
+a very weak relationship between purchase subsidies and consumer willingness to buy EVs. Thus, factors other than ﬁnancial
+incentives could be the primary drivers of EV adoption.
+Secondly, due to the nature of radical innovation development
+(Tushman and Anderson, 1986), there may be reasons to suspect
+that consumers may not behave in the same fashion toward HEVs
+as they do toward EVs. Innovations that are further away technologically from the dominant design are associated with greater
+levels of uncertainty (Anderson and Tushman, 1990). Consequently, since EVs represent a more radical technological departure from ICEVs than do HEVs (Sierzchula et al., 2012), they result
+in increased levels of uncertainty, speciﬁcally among consumers
+(Sovacool and Hirsh, 2009). This uncertainty affects a broad array
+of industrial dynamics including future proﬁtability of a technology, government involvement, and willingness to pay (Arrow,
+1966; Nelson and Winter, 1977; Jaffe et al., 2005); the more an
+innovation differs from the conventional technology, the less
+consumers are willing to pay for it. Thus, higher consumer
+uncertainty regarding EVs decreases the amount that individuals
+are willing to pay relative to HEVs, in effect reducing the utility of
+ﬁnancial incentives relative to EV adoption. This makes it difﬁcult
+to estimate the impacts of ﬁnancial incentives on the adoption of a
+radical innovation with signiﬁcantly different performance characteristics relative to the conventional technology, as is the case
+with EVs. Therefore, earlier studies analyzing HEV adoption may
+under-represent the impact that ﬁnancial incentives have on EV
+purchases.
+In addition, consumer subsidies may have little effect on EV
+sales uptake if buyers are uncomfortable with the technology
+(Egbue and Long, 2012), or do not see enough EVs in the ﬂeet
+around them (a threshold effect) (Eppstein et al., 2011). Our paper
+aims to contribute to the literature by examining if and to what
+extent ﬁnancial incentives and other socio-economic factors
+explain EV adoption.
+
+2
+Knowledge appropriability or “knowledge spillover” relates to the ability of a
+ﬁrm to beneﬁt from technologies or expertise that it develops as opposed to other
+companies gaining from those advances without investing in the necessary R&D, e.
+g., reverse engineering a developed product. Knowledge spillover results in lower
+rates of innovation.
+
+2. Barriers limiting innovation
+The literature has identiﬁed several obstacles which limit the
+diffusion of new technologies such as EVs. For example, knowledge spillover applies broadly to all innovations while pollution
+abatement and bounded rationality3 are typically associated with
+limiting the development and adoption of environmental technologies (eco-innovations) (Jaffe et al., 2005; Rennings, 2000). These
+barriers, which limit EV diffusion by inﬂuencing both the manufacturers that produce the automobiles and the consumers that
+buy them, are described more comprehensively below.
+
+2.1. General barriers
+In studying the development of innovations, Arrow (1962)
+determined that in a capitalist system, ﬁrms will underinvest in
+research and development of new technologies. This is primarily
+due to uncertainty, but also because an innovation's public beneﬁt
+(for which businesses receive little ﬁnancial compensation) often
+outweighs its private value to the company. The externality, of
+“positive knowledge spillover”, occurs when innovations provide
+valuable information to non-consumers (Horbach, 2008).
+For example, ﬁrms are not always able to prevent competitors
+from gaining from their R&D efforts. The degree to which a ﬁrm is
+able to defend the proﬁts of an innovation from competitor
+imitation is referred to as its appropriability (Teece, 1986). Because
+it is not possible for a ﬁrm to keep every element of a new
+technology secret, other companies can gain by learning from and
+in some cases stealing the work of the original innovating entity.
+Thus, due to knowledge spillovers, businesses are less likely to
+invest in the development of innovations that are easily copied
+(having low levels of appropriability) because they will not be able
+to reap all of the rewards from a successful new technology (Teece,
+1986). Positive knowledge spillover inﬂuences the industrial landscape such that although ﬁrms do invest in the research and
+development of new technologies, they do so at a lower level than
+would be expected based on the ﬁnancial beneﬁts that innovations
+provide.
+In addition, emerging technologies face further barriers
+because they often compare poorly to existing dominant designs
+in important criteria such as price and performance (Adner, 2002).
+For that reason, the ﬁrst individuals to adopt an emerging radical
+innovation are often willing to pay a premium or cope with subpar performance in order to have the latest technology (Rogers,
+1995). The larger proportion of the population known as early/late
+majority adopters are much more risk adverse, and are not willing
+to purchase an innovation so different from the dominant design
+(Rogers, 1995). It is vital for radical technologies to attract a
+signiﬁcant enough number of early adopters to develop a viable
+market niche (Geels, 2002). Thereafter, industrial forces such as
+learning by doing and scale economies can rapidly lower costs and
+improve performance (Foster, 1986; Christensen, 1997). In order
+for an innovation such as electric vehicles to have a signiﬁcant
+environmental impact, it needs to be widely adopted (and have
+dramatically lower emissions levels compared to ICEVs). For that
+to happen, there must ﬁrst be enough demand within the EV niche
+market that manufacturers continue to develop and sell the
+automobiles. Consequently, governments have employed ﬁnancial
+incentives to help attract early EV adopters.
+
+3
+The notion that an individual's decision making is inﬂuenced by the
+information that he/she has.
+
+Author's personal copy
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+2.2. Barriers that reduce eco-innovation
+Eco-innovations differ from other new products and services in
+that they provide a lower environmental impact than the conventional technology (Rennings, 2000). Examples range from incremental improvements to existing designs such as turbocharging in
+automobile engines to more radical technologies, like solar cells
+and wind turbines. The distinct nature of eco-innovations
+improves general social utility through lower pollution abatement
+levels. However, this externality also creates market failure, and
+ultimately limits their development and adoption (Jaffe et al.,
+2005).
+Investments in eco-innovation are speciﬁcally disincentivized
+because beneﬁts from lower pollution levels are not included in a
+product's price. The externality pollution functions such that that
+even though many societal members proﬁt from eco-innovations
+through improved health (however marginally), ﬁrms are not able to
+charge those individuals for their gains. As a result, eco-innovations
+have lower adoption levels than if societal beneﬁts from decreased
+pollution were included in product costs (Brown, 2001).
+An additional barrier that has contributed to lower ecoinnovation diffusion is bounded rationality, which can inﬂuence
+consumer valuation of a product's purchase price, operating
+expenses, and lifetime cost. Instead of using rational choices to
+maximize an individual's utility, individuals are aware of only a
+portion of the available options and thus act on imperfect
+information (Nelson and Winter, 1982). Thus, in place of calculating out the total cost of ownership of a product, consumers often
+rely on heuristics or rules of thumb to guide their purchasing
+behavior (Jaffe and Stavins, 1994; Schleich, 2009). This can lead an
+individual to place too much emphasis on the purchase price and
+not accurately value operating expenses (Levine et al., 1995).
+Because many eco-innovations have high purchase prices and
+low operating expenses, they have often experienced slow diffusion rates (Brown, 2001). Speciﬁcally regarding EVs, consumers
+looking to purchase alternative fuel vehicles do not accurately
+incorporate fuel economy in their vehicle purchase decisions,
+leading to irrational behavior (Turrentine and Kurani, 2007).
+
+3. Factors inﬂuencing EV adoption
+Because EVs were introduced to the broader consumer market
+only recently in 2010 (not including their temporary commercialization in the 1990s), there is little research that uses empirical
+data to analyze factors which affect adoption rates. Thus, much of
+our knowledge about such contributing elements comes from
+stated preference studies. However, because of a phenomenon
+known as the “attitude–action gap”, there is the concern that
+information from consumer surveys may have little relation to the
+purchase of low-emission vehicles (Lane and Potter, 2007). This
+raises the value of research that analyzes actual consumer actions
+(revealed preferences), such as that performed in our paper.
+HEVs provide a good comparison basis for EVs (even though
+they are less of a radical innovation) because they have several of
+the same key elements including a battery and electric motor
+based powertrain and lower environmental impacts. As HEVs have
+been commercially available since the late 1990s, there are several
+studies that used revealed preference data to investigate factors
+that inﬂuenced consumer uptake for those automobiles. In the
+absence of similar research for EVs, we have incorporated in our
+model variables that were found to be signiﬁcant drivers of HEV
+adoption in those articles e.g., education level, fuel price, and
+environmentalism (Lane and Potter, 2007; Diamond, 2009;
+Gallagher and Muehlegger, 2011). Based on the ﬁndings in HEV
+revealed preference research, EV survey studies, and theoretical
+
+185
+
+articles, we have collected and categorized the factors that are
+assumed to determine the decision of whether or not to purchase
+an electric vehicle as belonging to the technology itself, the
+consumer, or the context.
+The technology category comprises aspects of electric vehicles
+including battery costs and performance characteristics (driving
+range and charging time). EV purchase prices, which are heavily
+dependent on battery costs, have been identiﬁed as being the most
+signiﬁcant obstacle to widespread EV diffusion (Brownstone et al.,
+2000). The IEA (2011) found that the purchase price of an EV with a
+30 kWh battery (approx. 85 miles4 of driving range at 0.17 kWh/mile)
+would be $10,000 (all ﬁnancial amounts in this article should be read
+as US dollars) more than a comparable ICEV. Battery costs also have
+an impact on the driving range of an EV. An increase in the size of an
+EV's battery (in kWh) raises both its driving range and purchase cost.
+Therefore, although consumers are sensitive to a limited driving
+range (Lieven et al., 2011) that aspect must be balanced with its
+relation to vehicle battery costs. An additional factor which inﬂuences consumer adoption is vehicle charging time (Hidrue et al.,
+2011; Neubauer et al., 2012). Whereas most ICEVs are able to refuel in
+roughly 4 min, EVs require  30 min at a fast charging station and up
+to several (410) h for charging from a 110 or 220 V outlet,
+dependent on battery size (Saxton, 2013). Relative to a comparable
+ICEV, an EV's high purchase price, limited driving range, and long
+charge period all have a negative impact on adoption rate.
+In addition to factors relating to the EV, consumer characteristics
+also play a role in determining uptake. Studies have identiﬁed levels of
+education, income, and environmentalism to all be positively correlated to likelihood to purchase an EV (Hidrue et al., 2011) or HEV
+(Gallagher and Muehlegger, 2011). However, these factors, speciﬁcally
+environmentalism, are often less important to consumers than vehicle
+cost and performance attributes such as those identiﬁed in the
+paragraph above (Lane and Potter, 2007; Egbue and Long, 2012).
+A third set of elements, which the literature has found to
+inﬂuence adoption rates and is external to both the vehicle and
+consumer, is categorized as context factors in our research. In several
+studies, fuel (gasoline or diesel) prices have been identiﬁed as one of
+the most powerful predictors of HEV adoption (Diamond, 2009;
+Beresteanu and Li, 2011; Gallagher and Muehlegger, 2011), and have
+also been inﬂuential in agent-based models forecasting EV diffusion
+(Eppstein et al., 2011; Shaﬁei et al., 2012). Related to fuel prices,
+although less commonly incorporated in analyses, are electricity
+costs. Those two factors combine to determine a majority of EV
+operating expenses which in turn have an impact on adoption rates
+(Zubaryeva et al., 2012; Dijk et al., 2013). Other studies have
+identiﬁed availability of charging stations as an important determinant in consumer acceptance of alternative fuel vehicles e.g., EVs
+(Yeh, 2007; Struben and Sterman, 2008; Egbue and Long, 2012; Tran
+et al., 2012). A country's level of urban density could facilitate greater
+EV adoption as shorter average travel distances might allow for wider
+use of the vehicles' limited driving range (IEA, 2011). Finally, there are
+several factors speciﬁc to EVs that could inﬂuence adoption rates
+including vehicle diversity i.e., the number of models that consumers
+can buy (Van den Bergh et al., 2006), local involvement i.e., the
+presence of a local manufacturing plant (IEA, 2013), and public
+visibility i.e., the number of years EVs have been available for
+purchase (Eppstein et al., 2011).
+
+4. Method
+This section describes how EV adoption rates across a series of
+countries were analyzed using a set of socio-economic variables.
+4
+
+136 km.
+
+Author's personal copy
+186
+
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+Table 1
+Description of variables and sources.
+Variable
+
+Data
+
+Source
+
+MarShr
+
+National market share of electric vehicles as a percentage of all car
+sales
+Financial incentives that countries provided for the purchase and/or
+use of an electric vehicle
+The number of charging stationsa in a country corrected for
+population (the number of charging stations per 100,000 residents)
+Index that ranks environmental regulation and performance by
+country and is intended to capture national differences in
+environmentalism
+The weighted average of national gasoline and diesel fuel prices.
+Averages were weighted based on the amount of gasoline or diesel
+fuel used in speciﬁc countriesd
+Dummy variable identifying whether a country had either an EV
+producer's global headquarters or production facilities
+National income per capita as measured in purchasing power parity
+The number of vehicles per capita in a country
+The percentage of workforce with at least a tertiary education level
+2011 Household electricity prices per kWh
+Number of EV models that were purchased in 2012
+Year (since 2008) that EVs were ﬁrst sold in a given country
+The price of purchasing a Mitsubishi MiEV in a given countryf
+Cumulative population per square mile in urban areas above
+500,000 residents
+
+National automotive statistics websites
+
+Incentive
+ChgInf
+Envc
+
+Fuel
+
+HQ
+Income
+PerCapvehicles
+Education
+Elece
+Availability
+Intro
+EV_Price
+Urban density
+
+(ACEA, 2012a, 2012b); national government agencies
+(Chargemap, 2013; Lemnet.org, 2013; ASBE, 2013; Gronnbil, 2013);
+national charging mapsb
+Yale (2013)
+
+IEA (2012a), Reuters (2012), World Bank (2012a, 2012b)
+
+Auto manufacturer websites
+World Bank (2013a)
+World Bank (2013a)
+World Bank (2013b)
+Eurostat (2013), IEA (2012a)
+Automotive statistics websites
+Marklines (2013)
+National Mitsubishi websites
+Demographia (2013)
+
+a
+
+A charging station with multiple outlets would be counted as one in these ﬁgures.
+For many countries, national charging maps were found to provide more comprehensive data than international websites such as www.chargemap.com.
+There is no concern of reverse causality between EV adoption rate and the EPI because the low numbers of electric vehicles being driven in countries would have a
+negligible impact on the indicators which make up the EPI.
+d
+For example, if a country used 30% gasoline and 70% diesel, then their fuel price would reﬂect a greater weight placed on cost for diesel.
+e
+Due to data availability issues, Iceland electricity prices were from 2012.
+f
+In countries where MiEVs were not available, other EVs were used for a comparison e.g., the BYD F3DM in China.
+b
+c
+
+Section 4.1 describes the data that were collected. Section 4.2
+outlines a more detailed description of how ﬁnancial incentives
+were operationalized. Section 4.3 provides the ﬁnal model
+speciﬁcation.
+4.1. Data collection
+We collected and analyzed data from 30 countries for 2012. The
+year 2012 was selected as the study date because important
+information such as charging infrastructure and EV adoption rates
+were unavailable in earlier years. Our statistical analysis used data
+from the following countries: Australia; Austria; Belgium; Canada;
+China; Croatia; the Czech Republic; Denmark; Estonia; Finland;
+France; Greece; Germany; Iceland; Ireland; Israel; Italy; Japan; the
+Netherlands; New Zealand; Norway; Poland; Portugal; Slovenia;
+Spain; Sweden; Switzerland; Turkey; the United Kingdom, and the
+United States. We selected these countries because of the availability of data, speciﬁcally EV adoption and charging infrastructure
+ﬁgures. In our study, we deﬁned electric vehicles as including both
+pure battery electric vehicles, e.g., Nissan LEAF, as well as plug-in
+hybrid electric vehicles, e.g., Chevy Volt. As this deﬁnition of EVs
+was based around vehicles with a plug, other HEV models such as
+the Toyota Prius were not included in our analysis.
+Based on the factors identiﬁed in Section 3, we collected data
+for the following variables for each country in our study: EV
+market share, ﬁnancial incentives, urban density, education level,
+an environmentalism indicator, fuel price, EV price, presence of
+production facilities, per capita vehicles, model availability, introduction date, charging infrastructure,5 and electricity price. EV
+adoption was operationalized as national market shares of electric
+vehicles. Variable descriptions and their sources are provided in
+5
+Charging stations were identiﬁed such that there could be multiple stations
+at a location, and multiple charging points (plugs) per station.
+
+Table 1. Notable absences include driving range and charging time.
+Those variables were not added to our model because generally
+the same electric vehicles were available for purchase in the
+countries in our sample. Thus, there is no fundamental difference
+in the driving range of a Nissan LEAF in China or a Nissan LEAF in
+Germany.6
+4.2. Financial incentives
+To encourage EV adoption, countries have used ﬁnancial
+incentives from both technology speciﬁc policies, such as subsidies
+to EV consumers, and technology neutral policies, such as
+emissions-based vehicle taxes. These were applied either at the
+time of a vehicle's registration or on its annual circulation fee
+(license fees in the US). In some cases, countries lowered automobile taxes for EVs, and in others they provided subsidies apart
+from normal registration and circulation fees, thus presenting a
+very diverse ﬁnancial incentive landscape. This section of the
+study describes how such a heterogeneous environment for
+subsidies was operationalized to allow for analysis across
+countries.
+In order to compare ﬁnancial incentives that used different
+emissions and monetary units, policies were standardized
+relative to CO2 emissions and 2012 US dollars. To convert fuel
+use to CO2 emissions, we used the following formula: 1 l/100 km ¼
+23.2 g CO2/km (UNEP, 2012). We converted currencies to US
+dollars using the averaged quarterly exchange rates from 2012.
+In some situations, it was necessary to use a vehicle's performance
+6
+Differences in temperature would affect driving range. With that in mind, the
+same vehicle in different countries might have slightly different performance
+characteristics depending on weather conditions. However, the precise effects of
+temperature on EV driving radii are still being determined. For that reason driving
+range as inﬂuenced by temperature was not included in our model, but could still
+contribute to differences in adoption between countries such as Spain and Sweden.
+
+Author's personal copy
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+5. Results and discussion
+
+Table 2
+ICE vehicle and electric vehicle used for policy valuation.
+
+Cost
+Tailpipe emissions
+Fuel efﬁciencya
+Weight
+Engine/battery pack
+
+187
+
+ICE vehicle
+
+Electric vehicle
+
+$25,000
+140 CO2 g/km
+19 km/l
+1550 kg
+2.0 l
+77 kW
+
+$35,000
+0 g/km
+45 km/lb
+1950 kg
+20 kWh
+Li-ion
+
+This section includes a correlation matrix of variables used in
+the model, a descriptive analysis of EV-speciﬁc factors, and results
+from the statistical model identiﬁed above. Stress tests of the
+model were employed to determine its general robustness and the
+relative impact of speciﬁc variables. Finally, we discuss implications that arise from the results, which provide a notion of how
+different policy measures such as fuel taxes, consumer subsidies,
+and installing charging stations could inﬂuence EV adoption.
+
+a
+
+Based off the US FTP-75 driving cycle.
+This is a l/km equivalent ﬁgure, and is common for estimating fuel economy
+for EVs.
+b
+
+characteristics, e.g., CO2 emissions7 in order to calculate the
+ﬁnancial incentives of a particular policy. An example would be
+an annual circulation fee in which the amount paid was dependent
+on a vehicle's CO2 emissions levels. However, this does not give an
+indication of the savings relative to the purchase of an ICE vehicle
+(there is no basis for comparison). In order to calculate the value of
+such ﬁnancial incentive policies, we used information from an
+ICEV and EV (a 2012 Volkswagen Golf and Nissan Leaf respectively). Table 2 provides a description of the basic characteristics of
+these vehicles.
+Some policies, such as registration taxes, were applied on a
+one-time basis. For other policies that required annual payments
+e.g., circulation fees, we sought to provide a more realistic notion
+of their monetary value. We did this by using a 3 year payback
+period and consumer discount rate of 30% (based on the work of
+Greene et al., 2005; Yeh, 2007). For example, a one-time registration subsidy of $1000 maintains that value, but an annual circulation subsidy of $50 provided a ﬁnancial incentive of $90.81 in our
+analysis.
+For the countries studied in our sample, ﬁnancial incentives did
+not change considerably in 2011 and 2012. In absolute terms
+during those 2 years, Portugal saw a $5500 decrease in ﬁnancial
+incentives offered to EV adopters while Finland saw a $4600
+increase. Otherwise, national ﬁnancial incentive levels have
+remained constant over that time period.
+
+4.3. OLS regression
+The variables from Table 1 were incorporated into an ordinary
+least squares (OLS) regression with a logit transformation of the
+dependent variable to normalize distributions of EV market share.
+This transformation is appropriate when data are skewed, or
+bounded such as with a proportion (Lesaffre et al., 2007).
+A histogram of the EV market share was skewed to the right,
+and the variable was a proportion. After the logit transformation, a
+second histogram showed EV market share to be normally
+distributed, validating this approach. The ﬁnal model speciﬁcation
+is given as
+log _MarShri ¼ α þ β 1 Incentivei þ β 2 Urban densityi
+
+5.1. Correlation analysis of model variables
+Looking at relationships between individual variables can help
+to highlight dynamics that are not evident in linear regression
+models. Appendix A provides a Pearson's correlation coefﬁcient
+and statistical signiﬁcance between the variables used in the base
+model speciﬁcation. One of the patterns that appears when
+analyzing this matrix is that many of the EV-speciﬁc variables
+are strongly correlated (price, year of introduction, availability,
+market share, ﬁnancial incentives, and charging infrastructure),
+indicating that industrial dynamics can become interwoven during
+the early commercialization of a radical innovation. Another
+observation is that the EV price variable has a negative correlation
+to a country's market share. Mitsubishi MiEVs were most expensive in countries where adoption rates were low e.g., Turkey,
+China, and New Zealand, and they were cheaper in the US,
+Norway, and Japan, countries with relatively high EV market
+shares. Sometimes this difference was dramatic as with Australia
+($53,126) and Switzerland ($26,925). And while it is difﬁcult to
+draw any conclusive results from such correlations, they do
+provide a good basis for further analysis.
+An additional correlation that was not included in Appendix A
+was between charging infrastructure and the type of EV (plug-in
+hybrid or purely battery electric). Potentially, a country with a
+higher proportion of plug-in hybrid-electric vehicles (PHEVs)
+would have less dependence on charging stations, which could
+weaken the relationship between a country's EV adoption and its
+charging infrastructure. However, preliminary model estimations
+identify that percent of PHEVs did not have a statistically signiﬁcant relationship to either charging infrastructure or EV market
+share. This suggests that the proportion of a country's EVs with an
+internal combustion engine does not signiﬁcantly relate to its
+charging infrastructure or adoption rate.
+5.2. Descriptive analysis of EV-speciﬁc variables
+In addition to socio-demographic factors such as income and
+education level, our model also incorporated several EV-speciﬁc
+variables including ﬁnancial incentives, charging infrastructure,
+model availability, and presence of a local manufacturing facility.
+The descriptive analysis of these variables provided below identiﬁes how signiﬁcant correlations found in Appendix A can actually
+involve a great deal of heterogeneity and diversity, indicating the
+existence of other inﬂuential factors.
+
+þ β 3 Educationi þ β4 Envi þ β 5 Fueli þ β6 ChgInf i
+þ β 7 Elec þ β8 PerCapVehicles þ β9 EV_Price
+þ β 10 Availability þ β11 Introduction þ β 12 HQ þ εi
+where the subscript i denotes the country, and
+
+ε is an error term.
+
+7
+For the policies analyzed in our study, CO2 emissions were calculated from a
+vehicle's tailpipe, based on standard driving cycles e.g., NEDC and FTP-75.
+
+5.2.1. Financial incentives
+Financial incentives and EV adoption in Fig. 1 display a positive
+and signiﬁcant relationship (P-value of.01). Even so, there is
+substantial variation among the data points. In addition, there
+appears to be two groups of countries. The ﬁrst is constituted by
+approximately the bottom half of our study sample (14 countries)
+as represented by nations with ﬁnancial incentives less than
+$2000. They exhibited lower EV market shares with the exceptions
+of Sweden (0.30%) and Switzerland (0.23%), and to a lesser extent
+
+Author's personal copy
+
+3.5%
+
+$30
+
+3.0%
+
+$25
+
+2.5%
+
+$20
+
+2.0%
+
+$15
+
+1.5%
+
+$10
+
+1.0%
+
+$5
+
+0.5%
+
+$-
+
+0.0%
+Denmark
+Estonia
+Israel
+Norway
+Belgium
+Ireland
+Japan
+Netherlands
+United Kingdom
+China
+Iceland
+United States
+France
+Finland
+Greece
+Austria
+New Zealand
+Italy
+Portugal
+Slovenia
+Switzerland
+Spain
+Sweden
+Germany
+Croatia
+Czech republic
+Poland
+Australia
+Turkey
+Canada
+
+$35
+
+EV market share (% of annual car sales)
+
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+Financial incentives in 000's US dollars
+
+188
+
+Financial incentives
+
+EV Market Share %
+
+Fig. 1. Financial incentives by country and corresponding EV market share for 2012.
+
+$35,000
+$30,000
+
+Total EV subsidy
+
+$25,000
+$20,000
+$15,000
+$10,000
+$5,000
+
+Denmark
+Estonia
+Israel
+Norway
+Belgium
+Ireland
+Japan
+Netherlands
+United Kingdom
+China
+Iceland
+United States
+France
+Finland
+Greece
+Austria
+New Zealand
+Italy
+Portugal
+Slovenia
+Switzerland
+Spain
+Sweden
+Germany
+Croatia
+Czech republic
+Australia
+Canada
+Poland
+Turkey
+
+$-
+
+Circulation subisidies
+
+Registration subsidies
+
+Fig. 2. Breakdown of ﬁnancial subsidies types offered by countries.
+
+Germany (0.12%), and Canada (0.13%). Consequently, 10 countries
+showed little EV activity as measured by either ﬁnancial incentives
+or EV adoption.
+The other group in Fig. 1 is distinguished by the countries with
+higher levels of ﬁnancial incentives and greater variation in their
+EV market shares. Some countries such as Norway and Estonia
+matched high ﬁnancial incentives with increased EV adoption.
+However, this relationship was not uniform as other countries,
+including Denmark and Belgium, offered high ﬁnancial incentives
+but had relatively low levels of adoption. Fig. 1 suggests that there
+are factors other than ﬁnancial incentives that drive EV adoption.
+In addition to variables captured by the model, there are likely to
+be country-speciﬁc factors that inﬂuenced national EV market shares.
+For instance, consumers in Estonia adopted 55 EVs in 2011 (Mnt.ee,
+2013), but the federal government decided to purchase approximately 500 MiEVs in 2012 (Estonia, 2011). That single act largely
+explains why it had such a high market share in 2012. Conversely,
+Norway installed extensive charging infrastructure in 2009, and has
+experienced a more gradual increase in EV adoption rates since 2010,
+predominantly through household consumers (SAGPA, 2012). An
+additional factor which is not captured by the ﬁnancial incentive
+variable is the subsidy's recipient. Through their purchase of a
+
+majority of EVs through 2012, ﬂeet managers were identiﬁed as
+being very important early adopters (IEA, 2013). However Belgium's
+ﬁnancial incentives were directed speciﬁcally toward households, so
+they may have largely missed engaging the ﬂeet market, hurting the
+country's adoption ﬁgures. These country speciﬁc factors provide
+insight into factors not included in the model that had the potential
+to greatly inﬂuence national EV adoption levels.
+As identiﬁed in Section 4, countries employed several different
+types of ﬁnancial incentives based on the vehicle's tonnage,
+company car status, emissions, and powertrain, which can be
+broadly categorized as either registration or circulation subsidies.
+Fig. 2 identiﬁes how countries approached ﬁnancial incentives
+according those policy categories.
+Fig. 2 notes that most available EV ﬁnancial incentives (78%)
+came in the form of registration as opposed to circulation
+subsidies. The difference between the two is that registration
+funds were offered the year that the EV was purchased while those
+based on a vehicle's annual circulation provided beneﬁts over a
+multiple year time span. Perhaps one reason why registration
+subsidies were the dominant form of ﬁnancial incentives is due to
+consumer high discount rates for circulation subsidies, effectively
+lowering their perceived value. A correlation test between EV
+
+Author's personal copy
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+5.2.3. Number of models available and local EV production
+As identiﬁed in the correlation matrix, many of the EV-speciﬁc
+variables displayed strong correlations. In order to better understand
+
+30.00
+
+3.5%
+
+25.00
+
+3.0%
+2.5%
+
+20.00
+2.0%
+15.00
+1.5%
+10.00
+1.0%
+5.00
+
+0.5%
+
+0.00
+
+0.0%
+Norway
+Netherlands
+Estonia
+Austria
+Israel
+Switzerland
+Ireland
+Denmark
+Japan
+Portugal
+Sweden
+Slovenia
+Belgium
+France
+Germany
+United Kingdom
+Czech republic
+United States
+Spain
+Canada
+Iceland
+Finland
+Italy
+Australia
+Poland
+New Zealand
+Turkey
+Greece
+China
+Croatia
+
+Charging stations per 100,000 residents
+
+5.2.2. Charging infrastructure
+Fig. 3 exhibits a positive and signiﬁcant relationship (P-value
+of.000) between charging stations (adjusted for population) and
+EV adoption rates. Despite an overall positive correlation, there
+were examples of wide discrepancies in the data as evidenced by
+Estonia and Israel. Both countries had similar proportions of
+charging stations, but Estonia had an EV adoption level 11 times
+higher than that of Israel. There also appears to be seven countries
+with very low levels of both charging stations and EV adoption.
+Not as much information is available about national charging
+infrastructure as ﬁnancial incentives, perhaps because in many
+countries they are largely installed by local municipalities (Bakker
+and Trip, 2013). Among the countries in our sample, there have
+been several different approaches to building charging infrastructure from federal mandate (Estonia) to auto manufacturer led
+(Japan) to local government initiative (Belgium) to public–private
+
+partnerships (Norway) (Estonia, 2011; SAGPA, 2012; ASBE, 2013;
+Nobil, 2012). This variety in approach to charging infrastructure
+development likely relates to other factors that inﬂuence EV
+adoption e.g., local involvement.
+Analyzing Figs. 1 and 3, ﬁve (out of the 30) countries showed
+very little activity during the introductory phase of EVs, as
+measured by ﬁnancial incentives, adoption, or charging infrastructure installation. Thus, countries in our study could be divided into
+two groups with divergent attitudes toward EV adoption as
+reﬂected by government policy and consumer purchase behavior.
+One set of countries seemed to be actively engaged in the EV
+introductory market while the other appeared to show very little
+interest. However, the discrepancy between the two groups will
+likely have little effect on the overall success or failure of EVs as
+the countries invested in their adoption represent a substantial
+majority of global GDP based on national purchasing power parity
+(World Bank, 2013c).
+
+EV market share (%of annual car sales)
+
+market share and registration/circulation subsidies did not return
+a signiﬁcant value suggesting that it was the total ﬁnancial
+incentive value and not the speciﬁc policy type that was relevant
+for adoption rates.
+
+189
+
+Charging Stations
+
+EV Market Share %
+
+16
+
+3.0
+
+14
+2.5
+12
+10
+
+2.0
+
+8
+
+1.5
+
+6
+1.0
+4
+0.5
+
+2
+
+0.0
+
+0
+
+# of Models
+
+EV Market Share %
+
+Fig. 4. Number of EV models available for purchase, production facilities, and national market shares.
+
+EV market share (% of annual car sales)
+
+3.5
+
+18
+
+Norway
+Estonia
+Japan
+Netherlands
+France
+United States
+Austria
+Sweden
+Israel
+Spain
+Switzerland
+Denmark
+Portugal
+Italy
+Belgium
+United Kingdom
+Canada
+Greece
+Germany
+Iceland
+China
+Finland
+Czech republic
+Slovenia
+New Zealand
+Ireland
+Turkey
+Australia
+Croatia
+Poland
+
+Number of EV models available for purchase
+
+Fig. 3. National charging infrastructure by country and corresponding EV market share for 2012.
+
+Author's personal copy
+190
+
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+how these factors interact, Fig. 4 looks at three such variables: the
+number of models available for purchase; whether a country produced
+EVs locally (bolded columns); and adoption rates.
+In total, 45 different types of EVs were purchased in 2012
+although a small number of models such as the Nissan Leaf, Chevy
+Volt/Opel Ampera, and Toyota Plug-in Prius accounted for the
+lion's share (62%) of those sales. The Mitsubishi MiEV was the
+most widely available, being adopted in 26 of the countries in our
+sample. There was a positive correlation between a country's EV
+adoption rate and the number of models that were available for
+purchase. In many instances, manufacturers sold a limited number
+of several different EV models in their native country e.g., Ford in
+the US and Mercedes in Germany. In those instances, manufacturers were likely experimenting with a limited production of
+speciﬁc EV models before expanding their sales efforts.
+Countries where native manufacturers heavily invested in EVs
+e.g., Japan, France, and the US, had some of the highest EV market
+shares. Other countries with EV production facilities but low
+adoption rates including Germany and Italy did not have EVs
+made by native manufacturers broadly available. This suggests a
+strong relationship between consumer adoption of EVs and their
+being manufactured by native ﬁrms. Several of the larger countries
+were much more prone to adopt native models, speciﬁcally China
+and Japan where only EVs from native manufacturers were
+purchased. Of those two countries, China stands out because very
+few EVs made by Chinese auto makers were sold outside the
+country. Many manufacturers e.g., Ford, Audi and Mia Electric,
+were nation-speciﬁc with sales only or primarily occurring in the
+country where their production facilities were located. The relationship between the variables in Fig. 4 suggests a complex
+relationship between consumers, manufacturers, and national
+attitude regarding EVs.
+
+5.3. OLS model results and implications
+Table 3 shows regression results from the 30 countries in our
+study for 2012. We regressed the log of EV market share on
+ﬁnancial incentives, urban density, education level, an environmentalism indicator, fuel price, EV price, the presence of production facilities, per capita vehicles, model availability, introduction
+
+Table 3
+Regression results for 2012 electric vehicle adoption.
+Unstandardized
+B (Std. err.)
+
+Standardized
+Beta
+
+(Constant)
+Incentive
+Charging infrastructure
+Environment
+Fuel
+HQ
+Income
+Per capita vehicles
+Education
+Electricity
+Availability
+EV introduction
+EV price
+Urban density
+
+ 5.703 (2.858)
+0.006 (0.003)n
+0.131 (0.039)nn
+0.020 (0.037)
+ 0.141 (0.827)
+0.926 (0.492) þ
+ 0.046 (0.036)
+0.003 (0.002)
+0.030 (0.003)
+ 0.221 (0.282)
+0.049 (0.056)
+0.122 (0.232)
+0.008 (0.029)
+0.018 (0.077)
+
+0.357
+0.599
+0.106
+ 0.031
+0.312
+ 0.336
+0.319
+0.190
+ 0.115
+0.178
+0.106
+0.046
+0.056
+
+N
+R2
+Adjusted R2
+
+30
+0.792
+0.623
+
+n
+
+Po 0.05.
+Po 0.01.
+þ
+P o 0.1.
+
+nn
+
+date, charging infrastructure, and electricity price. We used graphical
+and numerical analyses to ensure that the data met expectations
+of linearity, normality, and homoskedasticity. We used ANOVA
+tests and histograms to test for linearity, Shapiro–Wilk tests for
+normality, and visual analysis of scatter plots for heteroskedasticity.
+The model's adjusted R2 was 0.628 which means that almost 2/
+3 of the variation in national EV market shares was explained by
+the tested variables. The coefﬁcients for ﬁnancial incentives and
+charging infrastructure were positive and statistically signiﬁcant
+with P-values of 0.039 and 0.004 respectively. Of those two
+variables, charging infrastructure had higher Beta values (both
+standardized and unstandardized), indicating that it was stronger
+at estimating adoption levels. Thus, adding a charging station (per
+100,000 residents) had a greater impact on predicting EV market
+share than did increasing ﬁnancial incentives by $1000. The
+presence of a local EV manufacturing facility was also a signiﬁcant
+variable, although to a lesser extent with a P-value of 0.079.
+From the information in Table 3, it is possible to extrapolate the
+relationship of both ﬁnancial incentives and charging infrastructure to EV market share. Holding all other factors constant, each
+$1000 increase in ﬁnancial incentives would cause a country's EV
+market share to increase by 0.06%. For example, a country with an
+EV market share of 0.22% that increased its ﬁnancial incentives to
+consumers by $2000 would see its adoption rate go up to 0.34%
+(0.22% þ0.06% þ0.06%). For charging infrastructure, holding all
+other factors constant, each additional station per 100,000 residents that a country added would increase its EV market share by
+0.12%. This suggests that each charging station (per 100,000
+residents) could have twice the impact on a country's EV market
+share than $1000 in consumer ﬁnancial incentives, albeit with
+different bearings on a nation's budget.
+However, as a note of caution, while our model did identify that
+ﬁnancial incentives and charging infrastructure were positively
+correlated to national EV adoption levels, there is no guarantee
+that these relationships hold for all countries, as evidenced in
+Figs. 1 and 3. For example, in Fig. 1 Belgium and Denmark had very
+high ﬁnancial incentives, but relatively low rates of adoption.
+Conversely, Switzerland and Sweden exhibited the opposite
+dynamic with low consumer subsidies but high EV uptake levels.
+Fig. 3 displayed the same sort of mixed relationship between
+charging infrastructure and EV market share. Thus, ﬁnancial
+incentives and charging infrastructure should be seen as being
+likely but not certain to predict a country's EV adoption rate.
+The empirical results provide a useful comparison with stated
+preference surveys. While charging infrastructure and ﬁnancial
+incentives were (as expected) signiﬁcant in predicting EV adoption, this was not the case with broader socio-demographic
+variables e.g., income, education, environmentalism, and urban
+density that the literature had anticipated to be inﬂuential (Lane
+and Potter, 2007; Gallagher and Muehlegger, 2011; Egbue and
+Long, 2012). In addition, despite its strong and positive correlation
+to HEV adoption in earlier studies (Diamond, 2009; Beresteanu
+and Li, 2011; Gallagher and Muehlegger, 2011), fuel price was not
+signiﬁcant in predicting a country's EV market share. However,
+there are fundamental differences in those papers and our study
+that could help explain these conﬂicting results. Firstly, the HEV
+studies examined a single nation over several years whereas our
+study looked at several countries for a single year. Secondly, fuel
+prices in those earlier studies exhibited much greater variation
+than was found in our data. Conversely, it could be that differences
+such as the complexity of total ownership cost calculation and the
+role of charging infrastructure result in fuel prices not having the
+same impact on EV purchases that they do with HEVs. More
+research is necessary to identify the relationship between fuel
+price and EV adoption, speciﬁcally studies that span multiple years
+and look at a single country.
+
+Author's personal copy
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+5.3.1. Sensitivity tests
+In addition to econometric results found in Table 3, we also
+performed several estimations to test the sensitivity of different
+variables (speciﬁcally ﬁnancial incentives and charging infrastructure) and the base model's overall robustness. These are described
+below in Tables 4 and 5 and are referred to as Models 1–5
+respectively. The individual variable(s) explored through sensitivity
+analysis is identiﬁed below the Model's number e.g., charging
+infrastructure in Model 1.
+In Model 1, normalizing charging infrastructure for urban
+density did not drastically affect results with the variables ﬁnancial incentives, production facilities, and charging infrastructure
+remaining signiﬁcant while the adjusted R2 (0.613) was also
+similar to that of the base estimation. As such, the base model
+
+Table 4
+Model sensitivity analyses 1 and 2.
+(1)
+ChgInf
+
+(2)
+Incentive
+
+(Constant)
+Financial incentive
+Charging infrastructure
+Environment
+Fuel
+HQ
+Income
+Per capita vehicles
+Education
+Electricity
+Availability
+EV Introduction
+EV price
+Urban density
+
+ 5.368 (2.893)
+0.006 (0.003)n
+0.164 (0.05)nn
+0.019 (0.038) þ
+ 0.182 (0.841)
+0.847 (0.492)
+ 0.047 (0.037)
+0.003 (0.002)
+0.025 (0.03)
+ 0.236 (0.285)
+0.053 (0.057)
+0.145 (0.233)
+0.009 (0.029)
+0.012 (0.078)
+
+ 5.380 (2.791)
+0.066 (0.029)n
+0.122 (0.040)nn
+0.021 (0.037)
+ 0.137 (0.819)
+1.007 (0.490) þ
+ 0.039 (0.036)
+0.002 (0.002)
+0.027 (0.030)
+ 0.216 (0.279)
+0.045 (0.055)
+0.077 (0.234)
+0.006 (0.028)
+0.009 (0.075)
+
+N
+R2
+Adjusted R2
+
+30
+0.787
+0.613
+
+30
+0.795
+0.628
+
+nn
+n
+
+þ
+
+Po 0.01.
+Po 0.05.
+Po 0.1.
+
+Table 5
+Model sensitivity analyses 3–5.
+
+(Constant)
+
+(3)
+Incentive
+
+(4)
+ChgInf
+
+ 3.692
+(3.021)
+
+ 5.519 (3.629)  2.756 (3.842)
+0.008 (0.004)nn
+
+Financial incentive
+Charging
+infrastructure
+Environment
+Fuel
+HQ
+Income
+Per capita vehicles
+Education
+Electricity
+Availability
+EV introduction
+EV price
+
+0.000 (0.040)
+0.337 (0.889)
+0.908 (0.547)
+ 056 (0.040)
+0.002 (0.002)
+0.047 (0.032)
+ 044 (0.302)
+0.024 (0.061)
+0.222 (0.253)
+ 007 (0.031)
+
+Urban density
+N
+R2
+Adjusted R2
+nn
+
+Po 0.01.
+
+(5)
+Incentive and ChgInf
+
+0.149 (0.042)nn
+ 007 (0.052)
+1.321 (1.078)
+0.301 (0.663)
+ 021 (0.049)
+ 002 (0.002)
+0.062 (0.041)
+ 261 (0.377)
+0.065 (0.077)
+0.527 (0.304)
+ 028 (0.039)
+
+ 043 (0.080)
+
+0.020 (0.048)
+0.548 (1.018)
+0.418 (0.595)
+ 0.013 (0.044)
+0.069 (0.002)
+0.037 (0.038)
+ 0.458 (0.347)
+0.092 (0.069)
+0.349 (0.282)
+ 0.005
+(0.036)
+ 0.017 (0.097)
+
+30
+0.726
+0.533
+
+30
+0.643
+0.391
+
+30
+0.527
+0.238
+
+ 105 (0.100)
+
+191
+
+remains robust to this sensitivity test. Model 2 explored the
+sensitivity of EV adoption to ﬁnancial incentives with different
+discount rates and payback periods. While the US Energy Information National Energy Modeling System uses a 3 year payback
+period and discount rate of 30%, other studies have found that
+consumers, speciﬁcally businesses and government agencies, may
+more accurately calculate the total lifetime costs of an innovation
+(Nesbitt and Sperling, 1998; Menanteau and Lefebvre, 2000). As
+such, we ran a sensitivity test for a lower discount rate (1.25%) and
+longer payback period (8 years, which is the warranty period for a
+Nissan Leaf or Chevy Volt). This approach resulted in $25,000
+more in available ﬁnancial incentives from $180,000 in the base
+model. This sensitivity test did not substantially change the
+signiﬁcant variables (ﬁnancial incentives, charging infrastructure,
+and EV manufacturer location) or the models adjusted R2, (0.628)
+suggesting that differences in discount value and payback period
+have a relatively weak inﬂuence on national EV adoption rates,
+although that could be due to the small number of multi-year
+consumer subsidies i.e., those that address circulation taxes.
+Sensitivity analyses 3–5 show how the model's explanatory
+power changed with the removal of ﬁnancial incentives and
+charging infrastructure variables. Removing the ﬁnancial incentives variable in Model 3 resulted in the adjusted R2 decreasing
+from 0.623 in the base analysis to 0.533. Taking out charging
+infrastructure in Model 4 caused a more drastic reduction in
+adjusted R2 to 0.391. Removal of both factors in Model 5 caused
+the model to lose most of its explanatory power; it had no
+signiﬁcant variables and an adjusted R2 of 0.238. From these
+sensitivity tests this it is possible to conclude that in our model,
+charging infrastructure was considerably stronger than ﬁnancial
+incentives in explaining EV adoption rates.
+There were several limitations in our models which had the
+potential to produce misleading results. During the introduction of
+new technologies, there are often discrepancies in supply among
+locales. Differences in EV availability by locality may have contributed
+to variation in national adoption numbers. In addition, our study
+analyzed ﬁnancial incentives from national governments. There are
+undoubtedly monetary beneﬁts, such as free parking or toll exemptions provided by regions and cities that were not included in this
+study and were likely to have been inﬂuential. The small number of
+observations per year is also cause for caution when interpreting the
+results. Furthermore, by only studying 1 year, the data does not allow
+for analysis of the relationship between important variables e.g.,
+ﬁnancial incentives and charging infrastructure.
+
+6. Conclusions
+The purpose of this research was to explore the relationship
+between ﬁnancial incentives and other socio-economic factors to
+electric vehicle adoption across several countries. We found that
+ﬁnancial incentives, the number of charging stations (corrected for
+population), and the presence of a local EV manufacturing facility
+were positive and signiﬁcant in predicting EV adoption rates for the
+countries in our study. Of those variables, charging infrastructure was
+the best predictor of a country's EV market share. However, descriptive analyses indicated how country-speciﬁc factors such as government procurement plans or the target recipient of subsidies could
+dramatically affect a nation's adoption rate. On the whole this analysis
+provides tentative endorsement of ﬁnancial incentives and charging
+infrastructure as a way to encourage EV adoption.
+A second conclusion is that EV-speciﬁc factors were discovered
+to be signiﬁcant while broader socio-demographic variables such
+as income, education level, and environmentalism were not good
+predictors of adoption levels. This could be because national EV
+markets were so small relative to overall automobile sales. Thus,
+
+Author's personal copy
+192
+
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+while many EV consumers may have high levels of education and
+be passionate about the environment, within the perspective of a
+country such individuals still represent a tiny portion of the overall
+population. Therefore, socio-demographic variables may not provide a good indicator of adoption levels when comparing countries. If EVs emerge from a niche market, then socio-demographic
+data might be more accurately used to predict adoption levels at
+the national scale. Until then, EV-speciﬁc factors such as amount of
+charging infrastructure, level of consumer ﬁnancial incentives, and
+number of locations that sell the automobiles are likely to be more
+correct for estimating a country's market share.
+
+6.1. Policy implications
+Based on our results, a sensible policy approach for addressing
+EV market failures arising from pollution abatement and knowledge spillover would be for governments to provide consumer
+subsidies and/or increase their number of charging stations. Due
+to the importance of consumer adoption during the commercial
+introduction of a radical innovation (Nemet and Baker, 2009), such
+supportive measures could make a wide difference in the level of
+EV diffusion in the coming decades. As the charging station
+variable was the strongest predictor of EV adoption based on Beta
+values stress tests, their installation may be more effective than
+ﬁnancial incentives. However, since these two factors are likely to
+be complimentary, supporting both measures could be expected to
+lead to higher market shares than focusing on either ﬁnancial
+incentives or charging infrastructure alone.
+However, this study also provides three notes of caution to
+countries that expect that they can achieve high EV adoption rates
+by increasing their levels of ﬁnancial incentives or charging
+infrastructure. Firstly, the descriptive analysis identiﬁed several
+countries that displayed a relatively weak relationship between
+the two factors and EV market share. Secondly, it is possible that
+ﬁnancial incentives or charging infrastructure mask other
+dynamics which are signiﬁcant in driving EV adoption. Consequently, building policy only around those two factors may not
+support important underlying elements. Thirdly, due to the constantly evolving environment during the emergence of a radical
+innovation, industrial dynamics may change from year to year.
+Therefore, while this study does show that ﬁnancial incentives and
+charging infrastructure are positively correlated to national EV
+market shares, it is deﬁnitely not evidence of a causal relationship
+and should be treated with prudence.
+
+While national governments have been primarily responsible
+for consumer ﬁnancial incentives, installing charging points has
+largely been left to local public bodies such as cities (IEA, 2013).
+However, the IEA (2013) found that “infrastructure spending has
+been relatively sparse” (pp. 16), which suggests that local and
+national levels of government should strengthen coordination in
+order to better encourage EV adoption, supporting earlier research
+by Bakker and Trip (2013).
+Now that we have identiﬁed policies that could be effective in
+encouraging EV adoption, a next question is whether they are
+actually efﬁcient in a societal and economical sense. To answer this
+question, an elaborate ex-ante Cost Effectiveness Analysis (CEA) or
+Cost Beneﬁt Analysis (CBA) would be needed. However, given the
+dynamic nature of radical innovations, one should be careful when
+applying these methods to the EV case. That is to say, EVs may not
+signiﬁcantly reduce GHG emissions in the short term, but they
+have the potential to cause dramatic decarbonization post 2020
+(IEA, 2012c), assuming a dramatic increase of the share of renewables in the electricity mix. In that respect, ﬁnancial incentives
+today may be important for stimulating broader EV adoption in
+the future, and consequently may provide beneﬁts outside those
+typically included in a status quo based CBA. Such additional
+beneﬁts may be reason to implement these policies even if the
+results from a traditional CBA were not very favorable.
+Furthermore, it is difﬁcult to compare the costs of ﬁnancial
+incentives for EVs with at least some competing policy options to
+reduce CO2 emissions. Financial incentives to increase the sales of
+EVs on a temporary basis may be needed in the early stages of EVs
+because they cannot compete yet with internal combustion engine
+vehicles. If, in a few decades, EVs would become a success,
+ﬁnancial incentive policies could prove to have contributed to this
+success. In other words, there may be a snowball effect of current
+ﬁnancial incentives which are fundamentally difﬁcult to grasp in a
+conventional CEA or CBA. We therefore suggest that these analyses
+can be used to support decision making, but that their outcomes
+should be treated with caution and that decision makers should
+always take a long term perspective when interpreting these.
+6.2. Suggestions for future research
+This study looked at a country's total charging infrastructure,
+not taking into account how a heterogeneous distribution of
+charging stations (many in one city, few elsewhere) might inﬂuence EV adoption. Speciﬁcally because of the important role
+played by local municipalities in installing charging infrastructure,
+
+Table A1
+Correlations between model variables.
+
+Mar share
+Incentive
+Env
+Fuel
+Chg infra
+HQ
+Income
+Per cap
+veh
+Ed
+Elec
+Avail
+EV intro
+EV Price
+Urb Den
+n
+
+Market
+share
+
+Incentive Env
+
+Fuel
+
+Chg
+infra
+
+HQ
+
+Income
+
+Per cap
+vehicles
+
+Ed
+
+Elec
+
+Avail
+
+EV intro EV price Urban
+density
+
+1
+0.498nn
+0.258
+ 0.091
+0.697nn
+0.400n
+0.443n
+0.142
+
+0.498nn
+1
+ 0.115
+ 0.015
+0.380n
+ 0.058
+0.135
+ 0.111
+
+0.258
+ 0.115
+1
+0.182
+0.260
+0.048
+0.586nn
+0.565nn
+
+ 0.091
+ 0.015
+0.182
+1
+0.107
+ 0.183
+ 0.081
+ 0.141
+
+0.697nn
+0.380n
+0.260
+0.107
+1
+0.011
+0.455n
+ 049
+
+0.400n
+ 058
+0.048
+ 0.183
+0.011
+1
+0.163
+0.036
+
+0.443n
+0.135
+0.586nn
+ 0.081
+0.455n
+0.163
+1
+0.647nn
+
+0.142
+ 0.111
+0.565nn
+ 0.141
+ 0.049
+0.036
+0.647nn
+1
+
+0.347
+0.366n
+0.048
+ 0.263
+0.213
+0.042
+0.514nn
+0.320
+
+0.089
+0.112
+0.304
+0.082
+0.065
+0.085
+0.313
+0.241
+
+0.375n
+ 0.141
+0.423n
+ 0.136
+0.259
+0.524nn
+0.403n
+0.174
+
+0.553nn
+0.130
+0.375n
+ 0.159
+0.447n
+0.492nn
+0.559nn
+0.250
+
+ 0.448n
+ 0.311
+ 0.380n
+0.282
+ 0.361
+ 0.133
+ 0.461n
+ 0.336
+
+ 0.277
+ 0.139
+ 0.477nn
+0.433n
+ 0.135
+ 0.043
+ 0.622nn
+ 0.739nn
+
+0.347
+0.089
+0.375n
+0.553nn
+ 0.448n
+ 0.277
+
+0.366n
+0.112
+ 0.141
+0.130
+ 0.311
+ 0.139
+
+0.048
+0.304
+0.423n
+0.375n
+ 0.380n
+ 0.477nn
+
+ 0.263
+0.082
+ 0.136
+ 0.159
+0.282
+0.433n
+
+0.213
+0.065
+0.259
+0.447n
+ 0.361
+ 0.135
+
+0.042
+0.085
+0.524nn
+0.492nn
+ 0.133
+ 0.043
+
+0.514nn
+0.313
+0.403n
+0.559nn
+ 0.461n
+ 0.622nn
+
+0.320
+0.241
+0.174
+0.250
+ 0.336
+ 0.739nn
+
+1
+0.002
+ 0.117
+0.053
+ 0.419n
+ 0.392n
+
+0.002
+1
+0.463nn
+0.274
+ 0.065
+ 0.200
+
+ 0.117
+0.463nn
+1
+0.542nn
+ 0.201
+ 0.235
+
+0.053
+0.274
+0.542nn
+1
+ 0.391n
+ 0.247
+
+ 0.419n
+ 0.065
+ 0.201
+ 0.391n
+1
+0.448n
+
+ 0.392n
+ 0.200
+ 0.235
+ 0.247
+0.448n
+1
+
+Signiﬁcant at the 0.05 level (2-tailed).
+Signiﬁcant at the 0.01 level (2-tailed).
+
+nn
+
+Author's personal copy
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+their allocation could have an important affect on a country's
+EV adoption rate (Bakker and Trip, 2013). Therefore, we suggest
+that future research focus on the relationship between the
+distribution of charging infrastructure within a country and its
+EV adoption rate.
+In addition, our model found charging infrastructure and
+ﬁnancial incentives to be powerful predictors of EV adoption rates
+for the countries in our sample. However, it is possible that the
+variables concealed other important factors. Therefore, further
+analysis is necessary to unpack the importance of charging
+infrastructure and ﬁnancial incentives to determine whether they
+are on their own good predictors of EV adoption, or if there are
+other elements that also need to be present but were not included
+in our model. For instance, fuel price volatility may provide insight
+into EV adoption that is not captured through absolute fuel prices.
+
+Acknowledgments
+This paper is appreciative of the contributions from Eric Molin
+and James Dunn. Support was provided by the Netherlands
+Organization for Scientiﬁc Research and the University of
+Wisconsin-Madison Center for Sustainability and the Global
+Environment.
+
+Appendix A
+See Table A1.
+References
+ACEA, 2012a. Overview of CO2 Based Motor Vehicle Taxes in the EU. Brussels,
+Belgium.
+ACEA, 2012b. Overview of Tax Incentives for Electric Vehicles in the EU. Brussels,
+Belgium.
+Adner, R., 2002. When are technologies disruptive? A demand-based view of the
+emergence of competition. Strateg. Manag. J. 23, 667–688.
+Anderson, P., Tushman, M., 1990. Technological discontinuities and dominant
+designs: a cyclical model of technological change. Adm. Sci. Q. 35, 604–633.
+Arrow, K., 1962. The economic implications of learning by doing. Rev. Econ. Stud. 29
+(3), 155–173.
+Arrow, K., 1966. Exposition of the theory of choice under uncertainty. Synthese 16
+(3–4), 253–269.
+ASBE, 2013. Charging Locations. 〈http://www.asbe.be/en/locations〉 (accessed
+03.04.13).
+Bakker, S., Trip, J., 2013. Policy options to support the adoption of electric vehicles
+in the urban environment. Transp. Res. Part D 25, 18–23.
+Beresteanu, A., Li, S., 2011. Gasoline prices, government support, and the demand
+for hybrid vehicles in the United States. Int. Econ. Rev. 52 (1), 161–182.
+Brown, M., 2001. Market failures and barriers as a basis for clean energy policies.
+Energy Policy 29, 1197–1207.
+Brownstone, D., Bunch, D.S., Train, K., 2000. Joint mixed logit models of stated and
+revealed preferences for alternative-fuel vehicles. Transp. Res. Part B 34,
+315–338.
+Chargemap, 2013. 〈http://chargemap.com〉 (accessed 03.04.13).
+Christensen, C., 1997. The Innovator's Dilemma. Harvard Business School Press,
+Boston, MA.
+Demographia, 2013. Demographia World Urban Areas 9th Annual Edition.
+Diamond, D., 2009. The impact of government incentives for hybrid-electric
+vehicles: evidence from US states. Energy Policy 37, 972–983.
+Dijk, M., Orsato, R., Kemp, R., 2013. The emergence of an electric mobility trajectory.
+Energy Policy 52, 135–145.
+Egbue, O., Long, S., 2012. Barriers to widespread adoption of electric vehicles: an
+analysis of consumer attitudes and perceptions. Energy Policy 48, 717–729.
+Eppstein, M., Grover, D., Marshall, J., Rizzo, D., 2011. An agent-based model to study
+market penetration of plug-in hybrid electric vehicles. Energy Policy 39,
+3789–3802.
+Estonia, 2011. Estonia Will Promote the Use of Electric Cars Under a Green
+Investment Scheme. Government Communication Unit, 03 March 2011.
+Eurostat, 2013. Electricity Households. 〈http://www.energy.eu/#domestic〉
+(accessed 28.08.13).
+Foster, R., 1986. Innovation: The Attacker's Advantage. Macmillan, London.
+Gallagher, K., Muehlegger, E., 2011. Giving green to get green? Incentives and
+consumer adoption of hybrid vehicle technology. J. Environ. Econ. Manag. 61
+(1), 1–15.
+
+193
+
+Geels, F., 2002. Technological transitions as evolutionary reconﬁguration processes:
+a multi-level perspective and a case-study. Res. Policy 31 (8–9), 1257–1274.
+Greene, D., Patterson, P., Singh, M., Li, J., 2005. Feebates, rebates and gas-guzzler taxes: a
+study of incentives for increased fuel economy. Energy Policy 33, 757–775.
+Gronnbil, 2013. 〈http://www.gronnbil.no〉 (accessed 13.07.13).
+Hidrue, M., Parsons, G., Kempton, W., Gardner, M., 2011. Willingness to pay for
+electric vehicles and their attributes. Resour. Energy Econ. 33, 686–705.
+Horbach, J., 2008. Determinants of environmental innovation—new evidence from
+German panel data sources. Res. Policy 37, 163–173.
+IEA, 2011. Technology Roadmap Electric and Plug-in Hybrid Electric Vehicles. OECD/
+IEA, Paris.
+IEA, 2012a. Key World Energy Statistics 2012. OECD/IEA, Paris.
+IEA, 2012b. World Energy Outlook 2012. OECD/IEA, Paris.
+IEA, 2012c. Tracking Clean Energy Progress: Energy Technology Perspectives 2012
+Excerpt as IEA Input to the Clean Energy Ministerial.
+IEA, 2013. Global EV Outlook: Understanding the Electric Vehicle Landscape to
+2020. OECD/IEA, Paris.
+IPCC, 2012. Renewable Energy Sources and Climate Change Mitigation: Special
+Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, New York, NY.
+Jaffe, A., Stavins, R., 1994. The energy-efﬁciency gap: what does it mean? Energy
+Policy 22, 804–810.
+Jaffe, A., Newell, R., Stavins, R., 2005. A tale of two market failures: technology and
+environmental policy. Ecol. Econ. 54, 164–174.
+Lane, B., Potter, S., 2007. The adoption of cleaner vehicles in the UK: exploring the
+consumer attitude-action gap. J. Clean. Prod. 15, 1085–1092.
+Lemnet.org, 2013. 〈http://lemnet.org〉 (accessed 03.04.13).
+Lesaffre, E., Rizopoulos, D., Tsonaka, R., 2007. The logistic transform for bounded
+outcome scores. Biostatistics 8 (1), 72–85.
+Levine, M., Koomey, J., McMahon, J., Sanstad, A., Hirst, E., 1995. Energy efﬁciency
+policy and market failures. Annu. Rev. Energy Environ. 20, 535–555.
+Lieven, T., Muhlmeier, S., Henkel, S., Walker, J., 2011. Who will buy electric cars? An
+empirical study in Germany. Transp. Res. Part D 16 (3), 236–243.
+Marklines, 2013. Statistics—Sales Database Search. 〈http://www.marklines.com/en/
+vehicle_sales/search_model〉 (accessed 15.12.13).
+Menanteau, P., Lefebvre, H., 2000. Competing technologies and the diffusion of
+innovations: the emergence of energy-efﬁcient lamps in the residential sector.
+Res. Policy 29, 375–389.
+Mnt.ee, 2013. 2012 Estonian Vehicle Registrations by Motor Type. 〈www.mnt.ee〉
+(accessed 15.12.13).
+Nelson, R., Winter, S., 1977. In search of a useful theory of innovation. Res. Policy 6,
+136–176.
+Nelson, R., Winter, S., 1982. An Evolutionary Theory of Economic Change. Harvard
+University Press, Cambridge, MA.
+Nemet, G., Baker, E., 2009. Demand subsidies versus R&D: comparing the uncertain
+impacts of policy on a pre-commercial low-carbon energy technology. Energy J.
+30 (4), 49–80.
+Nesbitt, K., Sperling, D., 1998. Myths regarding alternative fuel vehicle demand by
+light-duty vehicle ﬂeets. Transp. Res. Part D 3 (4), 259–269.
+Neubauer, J., Brooker, A., Wood, E., 2012. Sensitivity of battery electric vehicle
+economics to drive patterns, vehicle range, and charge strategies. J. Power
+Sources 209, 269–277.
+Nobil, 2012. The Norwegian Charging Station Database for Electromobility. Oslo,
+Norway.
+Rennings, K., 2000. Redeﬁning innovation—eco-innovation research and the contribution from ecological economics. Ecol. Econ. 32, 319–332.
+Reuters, 2012. TABLE—China Retail Gasoline, Diesel Prices Since 2003. 〈http://af.reuters.
+com/article/energyOilNews/idAFL4E8D75DN20120207〉 (accessed 10.07.12).
+Rogers, E., 1995. Diffusion of Innovations, 4th edition The Free press, New York, NY
+SAGPA, 2012. Re-charged for Success. The Hird Wave of Electric Vehicle Promotion
+in Japan. Östersund, Sweden.
+Saxton, T., 2013. Understanding Electric Vehicle Charging. Plug in America. 〈http://
+www.pluginamerica.org/drivers-seat/understanding-electric-vehicle-charging〉
+(accessed 27.08.13).
+Schleich, J., 2009. Barriers to energy efﬁciency: a comparison across the German
+commercial and services sector. Ecol. Econ. 68 (7), 2150–2159.
+Shaﬁei, E., Thorkelsson, H., Ásgeirsson, E., Davidsdottir, B., Raberto, M., Stefansson,
+H., 2012. An agent-based modeling approach to predict the evolution of market
+share of electric vehicles: a case study from Iceland. Technol. Forecast. Soc.
+Change 79 (9), 1638–1653.
+Sierzchula, W., Bakker, S., Maat, K., van Wee, B., 2012. Technological diversity of
+emerging eco-innovations: a case study of the automobile industry. J. Clean.
+Prod. 37, 211–220.
+Sovacool, B., Hirsh, R., 2009. Beyond batteries: an examination of the beneﬁts and
+barriers to plug-in hybrid electric vehicles (PHEVs) and a vehicle-to-grid (V2G)
+transition. Energy Policy 37 (3), 1095–1103.
+Struben, J., Sterman, J., 2008. Transition challenges for alternative fuel vehicle and
+transportation systems. Environ. Plan. B: Plan. Des. 35, 1070–1097.
+Teece, D., 1986. Proﬁting from technological innovation: implications for integration, collaboration, licensing and public policy. Res. Policy 15, 285–305.
+Tran, M., Banister, D., Bishop, J., McCulloch, M., 2012. Realizing the electric-vehicle
+revolution. Nat. Clim. change 2, 328–333.
+Turrentine, T., Kurani, K., 2007. Car buyers and fuel economy? Energy Policy 35,
+1213–1223.
+Tushman, M., Anderson, P., 1986. Technological discontinuities and organizational
+environments. Adm. Sci. Q. 31, 439–465.
+
+Author's personal copy
+194
+
+W. Sierzchula et al. / Energy Policy 68 (2014) 183–194
+
+UNEP, 2012. The European Union Automotive Fuel Economy Policy. 〈http://www.
+unep.org/transport/gfei/autotool/case_studies/europe/cs_eu_0.asp〉 (accessed
+28.06.12).
+Van den Bergh, J., Faber, A., Idenbrug, A., Oosterhuis, F., 2006. Survival of the
+greenest: evolutionary economics and policies for energy innovation. Environ.
+Sci. 3 (1), 57–71.
+World Bank, 2012a. Road Sector Gasoline Fuel Consumption (kt of oil equivalent).
+World Bank, 2012b. Road Sector Diesel Fuel Consumption (kt of oil equivalent).
+World Bank, 2013a. GNI per Capita (PPP).
+World Bank, 2013b. Percent of Labor Force with Tertiary Education.
+
+View publication stats
+
+World Bank, 2013c. GDP Ranking, PPP Based.
+Yale, 2013. Environmental Performance Index 2012. 〈http://epi.yale.edu/epi2012/
+rankings〉 (accessed 11.06.13).
+Yeh, S., 2007. An empirical analysis on the adoption of alternative fuel vehicles: the
+case of natural gas vehicles. Energy Policy 35, 5865–5875.
+Zhang, X., Wang, K., Hao, Y., Fan, J., Wei, Y., 2013. The impact of government policy
+on preference for NEVs: the evidence from China. Energy Policy 61, 382–393.
+Zubaryeva, A., Thiel, C., Barbone, E., Mercier, A., 2012. Assessing factors for the
+identiﬁcation of potential lead markets for electriﬁed vehicles in Europe: expert
+opinion elicitation. Technol. Forecast. Soc. Change 79, 1622–1637.
+
+
