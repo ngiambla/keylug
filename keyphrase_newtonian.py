@@ -17,15 +17,18 @@ import time
 import math
 import numpy.random as np
 
+# Global Vars
+TXT_DIR="txt_files/"
+
 ###################################################
 # function listFiles(): lists file in dir.
 ###################################################
 def listFiles():
 	print(">> ")
-	files=glob.glob("*.txt")
+	files= glob.glob(TXT_DIR+"*.txt")
 	for f in files:
-		if "extract_" not in f:
-			print("["+f+"]")
+		f=f.replace(TXT_DIR,'')
+		print("["+f+"]")
 
 ###################################################
 # function help(): displays CLI menu
@@ -75,16 +78,17 @@ def findAttraction():
 	stpwds=[]
 	keys=[]
 	print("File to Analyze?")
-	file=raw_input(">> ")
+	file_r=raw_input(">> ")
 	doc=[]
 	numOfWords=0
-	with open("stopwords.txt",'r') as stops:
+	with open(TXT_DIR+"stopwords.txt",'r') as stops:
 		for line in stops:
 			stopwds=line.split()
 			for wds in stopwds:
 				stpwds.append(wds)			
 
-	with open(file,'r') as f:
+	filename=TXT_DIR+file_r
+	with open(filename,'r') as f:
 		for line in f:
 			doc.append(line)
 			words=line.split()
@@ -145,28 +149,25 @@ def findAttraction():
 	predict=[]
 	gp=True
 	stop=time.time()
-	#with open("extract_"+file,'w+') as fout:
-	if 1==1:
-		cutoff=0
-		size=len(outDict)
-		print("Relationships: "+str(size))
-		for item in outDict:
-			if len(predict) <10:
-				test=item[0].split("<-->")
-				for thing in predict:
-					if test[0].strip() in thing or test[1].strip()  in thing:
-						gp=False
-						break;
-					else:
-						gp=True
-				if gp:
-					predict.append(test[0].strip()+" "+test[1].strip())
-					print("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1]))
-					#fout.write("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1])+"\n")
-			else:
-				break
-		#fout.write(">>> Elapsed Time: "+str(stop-start)+"\n")
-		print("\n>> Completed @ "+str(stop-start))
+
+	cutoff=0
+	size=len(outDict)
+	print("Relationships: "+str(size))
+	for item in outDict:
+		if len(predict) <10:
+			test=item[0].split("<-->")
+			for thing in predict:
+				if test[0].strip() in thing or test[1].strip()  in thing:
+					gp=False
+					break;
+				else:
+					gp=True
+			if gp:
+				predict.append(test[0].strip()+" "+test[1].strip())
+				print("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1]))
+		else:
+			break
+	print("\n>> Completed @ "+str(stop-start))
 
 def main():
 	run=True
