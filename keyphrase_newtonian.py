@@ -11,6 +11,9 @@
 from __future__ import division
 import os
 import sys
+import atexit
+import readline
+
 import glob
 import operator
 import time
@@ -75,7 +78,7 @@ def findAttraction():
 	wPos={}
 	attraction={}
 	termfreq={}
-	stpwds=[]
+	stpwds={}
 	keys=[]
 	print("File to Analyze?")
 	file_r=raw_input(">> ")
@@ -85,7 +88,7 @@ def findAttraction():
 		for line in stops:
 			stopwds=line.split()
 			for wds in stopwds:
-				stpwds.append(wds)			
+				stpwds[wds] = 1		
 
 	filename=TXT_DIR+file_r
 	with open(filename,'r') as f:
@@ -117,8 +120,6 @@ def findAttraction():
 							if not hasNum(word):
 								wWeight[word]=len(word)+wWeight[word]
 
-	print("Document Ready. Press any key to continue.")
-	raw_input(">> ")
 	print(">> Calculating...")
 
 	start=time.time()
@@ -133,7 +134,7 @@ def findAttraction():
 				sys.stdout.write("Progress: "+"{0:.2f}".format(100*j/numOfWords)+"%\r")
 				if wPos[j] != wPos[i]:
 					force=wWeight[wPos[j]]*wWeight[wPos[i]]
-					force=force/(abs(j-i)**2)
+					force=force/((j-i)**2)
 					lst=[wPos[i],wPos[j]]
 					lst.sort()
 					label=lst[0]+" <--> "+lst[1]
@@ -146,7 +147,7 @@ def findAttraction():
 	
 
 	outDict=sorted(tmpDict.items(),key=operator.itemgetter(1),reverse=True)
-	predict=[]
+	predict={}
 	gp=True
 	stop=time.time()
 
@@ -157,21 +158,42 @@ def findAttraction():
 		if len(predict) <10:
 			test=item[0].split("<-->")
 			for thing in predict:
-				if test[0].strip() in thing or test[1].strip()  in thing:
+				if test[0].strip() in thing or test[1].strip() in thing:
 					gp=False
 					break;
 				else:
 					gp=True
 			if gp:
-				predict.append(test[0].strip()+" "+test[1].strip())
+				predict[test[0].strip()+" "+test[1].strip()] = 1
 				print("NP: "+test[0].strip()+" "+test[1].strip()+" Force[N]: "+str(item[1]))
 		else:
 			break
 	print("\n>> Completed @ "+str(stop-start))
 
+
+def save(prev_h_len, histfile):
+	new_h_len = readline.get_current_history_length()
+	readline.set_history_length(1000)
+	readline.write_history_file(histfile)
+
 def main():
 	run=True
 	os.system('clear')
+
+	readline.parse_and_bind("tab: complete")
+	histfile = os.path.join(os.path.expanduser("~"), ".keyphrase_newtonian_hist")
+	h_len = 0
+	try:
+		readline.read_history_file(histfile)
+		h_len = readline.get_current_history_length()
+	except Exception:
+		open(histfile, 'wb').close()
+
+	atexit.register(save, h_len, histfile)
+	running         =       True
+
+
+
 	print(">> Starting Up.")
 	author()
 	help()
@@ -193,4 +215,6 @@ def main():
 			help()
 	print("Bye.")
 	
-main()
+
+if __name__ == "__main__":
+	main()
